@@ -1,0 +1,22 @@
+[
+  {
+    "count": 1,
+    "name": "Slippery Island Gem",
+    "category": [
+      "Crash 1",
+      "Crash NST Content",
+      "1 - Crash 1 Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 28,
+    "name": "Twisted Island Relic",
+    "category": [
+      "Crash 1",
+      "Crash NST Content",
+      "1 - Crash 1 Items"
+    ],
+    "filler": true
+  }
+]

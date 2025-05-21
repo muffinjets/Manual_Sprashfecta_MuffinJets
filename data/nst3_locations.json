@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Future Tense Box Gem",
+        "region": "Fifth Warp",
+        "category": [
+          "Crash 3", "Crash NST Content"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Future Tense Death Route",
+        "region": "Fifth Warp",
+        "category": [
+            "Crash 3", "Crash NST Content"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Future Tense Time Trial",
+        "region": "Time Trials",
+        "category": [
+            "Crash 3", "Crash NST Content"
+        ],
+        "requires": []
+    }
+]

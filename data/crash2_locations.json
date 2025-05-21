@@ -1,0 +1,571 @@
+[
+  {
+    "name": "Turtle Woods Power Crystal",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Turtle Woods Box Gem",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Turtle Woods Clear Crateless",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow Go Power Crystal",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow Go Box Gem",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow Go Secret Path from Air Crash",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": "|Striking Crystal:10|"
+  },
+  {
+    "name": "Hang Eight Power Crystal",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hang Eight Box Gem",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": "|Blue Striking Gem|"
+  },
+  {
+    "name": "Hang Eight Secret Gem (Beat the Clock)",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Pits Power Crystal",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Pits Box Gem",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crash Dash Power Crystal",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crash Dash Box Gem",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripper Roo Round 2",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "4 - First Floor"
+    ],
+    "requires": "|Striking Crystal:5|"
+  },
+  {
+    "name": "Snow Biz Power Crystal",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow Biz Box Gem",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": "|Red Striking Gem|"
+  },
+  {
+    "name": "Air Crash Power Crystal",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Air Crash Box Gem",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": "|Striking Crystal:10|"
+  },
+  {
+    "name": "Air Crash Death Route",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bear It Power Crystal",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bear It Box Gem",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crash Crush Power Crystal",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crash Crush Box Gem",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Eel Deal Power Crystal",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Eel Deal Box Gem",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Eel Deal False Wall",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Komodo Brothers",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "5 - Second Floor"
+    ],
+    "requires": "|Striking Crystal:10|"
+  },
+  {
+    "name": "Plant Food Power Crystal",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Plant Food Box Gem",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Plant Food Beat the Timer",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sewer or Later Power Crystal",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sewer or Later Box Gem",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sewer or Later Yellow Gem Path",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": "|Yellow Striking Gem|"
+  },
+  {
+    "name": "Bear Down Power Crystal",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bear Down Box Gem",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Road to Ruin Power Crystal",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Road to Ruin Box Gem",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": "|Striking Crystal:15|"
+  },
+  {
+    "name": "Road to Ruin Death Route",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": "|Striking Crystal:10|"
+  },
+  {
+    "name": "Un-Bearable Power Crystal",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Un-Bearable Box Gem",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tiny Tiger Round 1",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "6 - Third Floor"
+    ],
+    "requires": "|Striking Crystal:15|"
+  },
+  {
+    "name": "Hangin' Out Power Crystal",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hangin' Out Box Gem",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Diggin' It Power Crystal",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Diggin' It Box Gem",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Hard Crash Power Crystal",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Hard Crash Box Gem",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold Hard Crash Death Route",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruination Power Crystal",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruination Box Gem",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruination Green Gem Path",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": "|Green Striking Gem|"
+  },
+  {
+    "name": "Bee-Having Power Crystal",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bee-Having Box Gem",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bee-Having False Nitroes",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N. Gin Round 1",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "7 - Fourth Floor"
+    ],
+    "requires": "|Striking Crystal:20|"
+  },
+  {
+    "name": "Piston It Away Power Crystal",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piston It Away Box Gem",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piston It Away Death Route",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rock It Power Crystal",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rock It Box Gem",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Night Flight Power Crystal",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Night Flight Box Gem",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Night Flight Death Route",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pack Attack Power Crystal",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pack Attack Box Gem",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spaced Out Power Crystal",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spaced Out Box Gem",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spaced Out Colored Gem Path",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": "|Blue Striking Gem| AND |Green Striking Gem| AND |Yellow Striking Gem| AND |Red Striking Gem| AND |Purple Striking Gem|"
+  },
+  {
+    "name": "Totally Bear",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "9 - Secret Floor"
+    ],
+    "requires": "|Striking Crystal:10|"
+  },
+  {
+    "name": "Totally Fly",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "9 - Secret Floor"
+    ],
+    "requires": "|Striking Crystal:15|"
+  },
+  {
+    "name": "Neo Cortex Round 2",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "8 - Fifth Floor"
+    ],
+    "requires": "|Striking Crystal:25|",
+    "place_item": ["Cortex 2 Defeated"]
+  }
+]

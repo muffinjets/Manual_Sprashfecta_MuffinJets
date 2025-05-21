@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Actual Victory",
+        "region": "Game Hub",
+        "victory": true,
+        "category": [
+            "Crash 1",
+            "Crash 2",
+            "Crash 3",
+            "Spyro 1",
+            "Spyro 2",
+            "Spyro 3"
+        ],
+        "requires": "|@Victory Token:ALL|"
+    }
+]

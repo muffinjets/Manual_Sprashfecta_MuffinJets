@@ -1,0 +1,47 @@
+[
+  {
+    "count": 150,
+    "name": "Large Dragon Egg",
+    "category": [
+      "Spyro 3",
+      "B - Spyro 3 Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sheila",
+    "category": [
+      "Spyro 3",
+      "B - Spyro 3 Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sgt. Byrd",
+    "category": [
+      "Spyro 3",
+      "B - Spyro 3 Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bentley",
+    "category": [
+      "Spyro 3",
+      "B - Spyro 3 Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Agent 9",
+    "category": [
+      "Spyro 3",
+      "B - Spyro 3 Items"
+    ],
+    "progression": true
+  }
+]

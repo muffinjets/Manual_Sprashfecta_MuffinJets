@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Stormy Ascent Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stormy Ascent Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stormy Ascent Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N. Sanity Island Time Trial",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "1 - N. Sanity Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jungle Rollers Time Trial",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "1 - N. Sanity Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Great Gate Time Trial",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "1 - N. Sanity Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boulders Time Trial",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "1 - N. Sanity Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Upstream Time Trial",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "1 - N. Sanity Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rolling Stones Time Trial",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "1 - N. Sanity Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hog Wild Time Trial",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "1 - N. Sanity Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Native Fortress Time Trial",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "1 - N. Sanity Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Up the Creek Time Trial",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "2 - Middle Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lost City Time Trial",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "2 - Middle Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Temple Ruins Time Trial",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "2 - Middle Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Road to Nowhere Time Trial",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "2 - Middle Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boulder Dash Time Trial",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "2 - Middle Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Whole Hog Time Trial",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "2 - Middle Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunset Vista Time Trial",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "2 - Middle Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Machinery Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cortex Power Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Generator Room Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toxic Waste Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The High Road Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Slippery Climb Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lights Out Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fumbling in the Dark Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jaws of Darkness Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Castle Machinery Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lab Time Trial",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "Crash NST Content", "3 - Cortex Island"
+    ],
+    "requires": []
+  }
+]

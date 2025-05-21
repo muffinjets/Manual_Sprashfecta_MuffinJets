@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Turtle Woods Time Trial",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "4 - First Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Snow Go Time Trial",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "4 - First Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Hang Eight Time Trial",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "4 - First Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "The Pits Time Trial",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "4 - First Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Crash Dash Time Trial",
+    "region": "First Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "4 - First Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Snow Biz Time Trial",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "5 - Second Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Air Crash Time Trial",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "5 - Second Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Bear It Time Trial",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "5 - Second Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Crash Crush Time Trial",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "5 - Second Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "The Eel Deal Time Trial",
+    "region": "Second Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "5 - Second Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Plant Food Time Trial",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "6 - Third Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Sewer or Later Time Trial",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "6 - Third Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Bear Down Time Trial",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "6 - Third Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Road To Ruin Time Trial",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "6 - Third Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Un-Bearable Time Trial",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "6 - Third Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Hangin' Out Time Trial",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "7 - Fourth Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Diggin' It Time Trial",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "7 - Fourth Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Cold Hard Crash Time Trial",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "7 - Fourth Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Ruination Time Trial",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "7 - Fourth Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Bee-Having Time Trial",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "7 - Fourth Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Piston It Away Time Trial",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "8 - Fifth Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Rock It Time Trial",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Night Flight Time Trial",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "8 - Fifth Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Pack Attack Time Trial",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "8 - Fifth Floor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spaced Out Time Trial",
+    "region": "Fifth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "8 - Fifth Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Totally Bear Time Trial",
+    "region": "Third Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "6 - Third Floor", "9 - Secret Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  },
+  {
+    "name": "Totally Fly Time Trial",
+    "region": "Fourth Floor",
+    "category": [
+      "Crash 2", "Crash NST Content", "7 - Fourth Floor", "9 - Secret Floor"
+    ],
+    "requires": ["|Striking Crystal:25|"]
+  }
+]

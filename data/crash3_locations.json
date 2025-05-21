@@ -1,0 +1,843 @@
+[
+  {
+    "name": "Toad Village Power Crystal",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toad Village Box Gem",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toad Village Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Under Pressure Power Crystal",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Under Pressure Box Gem",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Under Pressure Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Orient Express Power Crystal",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Orient Express Box Gem",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Orient Express Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bone Yard Power Crystal",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bone Yard Box Gem",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bone Yard Red Gem Path",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": "|Red Time Gem| AND |Time Crystal:10|"
+  },
+  {
+    "name": "Bone Yard Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Makin' Waves Power Crystal",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Makin' Waves Box Gem",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Makin' Waves Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tiny Tiger Round 2",
+    "region": "First Warp",
+    "category": [
+      "Crash 3", "A - First Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gee Wiz Power Crystal",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gee Wiz Box Gem",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gee Wiz Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hang'em High Power Crystal",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hang'em High Box Gem",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hang'em High Secret Path",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": "|Relic:10|"
+  },
+  {
+    "name": "Hang'em High Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hog Ride Power Crystal",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hog Ride Box Gem",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hog Ride Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tomb Time Power Crystal",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tomb Time Box Gem",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": "|Time Crystal:15| AND |Purple Time Gem|"
+  },
+  {
+    "name": "Tomb Time Purple Gem Path",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": "|Time Crystal:15| AND |Purple Time Gem|"
+  },
+  {
+    "name": "Tomb Time Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Run Power Crystal",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Run Box Gem",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Run Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dingodile",
+    "region": "Second Warp",
+    "category": [
+      "Crash 3", "B - Second Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dino Might! Power Crystal",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dino Might! Box Gem",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": "|Yellow Time Gem|"
+  },
+  {
+    "name": "Dino Might! Yellow Gem Path",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": "|Yellow Time Gem|"
+  },
+  {
+    "name": "Dino Might! Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eggipus Rex Box Gem",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": "|Yellow Time Gem|"
+  },
+  {
+    "name": "Eggipus Rex Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": "|Yellow Time Gem|"
+  },
+  {
+    "name": "Deep Trouble Power Crystal",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Deep Trouble Box Gem",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Deep Trouble Secret Gem",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Deep Trouble Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "High Time Power Crystal",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "High Time Box Gem",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "High Time Death Route",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "High Time Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Road Crash Power Crystal",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Road Crash Box Gem",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Road Crash Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hot Coco Box Gem",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hot Coco Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Double-Header Power Crystal",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Double-Header Box Gem",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Double-Header Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N. Tropy",
+    "region": "Third Warp",
+    "category": [
+      "Crash 3", "C - Third Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sphynxinator Power Crystal",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sphynxinator Box Gem",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sphynxinator Blue Gem Path",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": "|Blue Time Gem|"
+  },
+  {
+    "name": "Sphynxinator Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bye Bye Blimps Power Crystal",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bye Bye Blimps Box Gem",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bye Bye Blimps Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tell No Tales Power Crystal",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tell No Tales Box Gem",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tell No Tales Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Future Frenzy Power Crystal",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Future Frenzy Box Gem",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": "|Relic:20| AND |Time Crystal:25|"
+  },
+  {
+    "name": "Future Frenzy Secret Gem",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": "|Relic:20|"
+  },
+  {
+    "name": "Future Frenzy Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tomb Wader Power Crystal",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tomb Wader Box Gem",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tomb Wader Death Route",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tomb Wader Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N. Gin Round 2",
+    "region": "Fourth Warp",
+    "category": [
+      "Crash 3", "D - Fourth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gone Tomorrow Power Crystal",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gone Tomorrow Box Gem",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": "|Green Time Gem|"
+  },
+  {
+    "name": "Gone Tomorrow Green Gem Path",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": "|Green Time Gem|"
+  },
+  {
+    "name": "Gone Tomorrow Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Orange Asphalt Power Crystal",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Orange Asphalt Box Gem",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Orange Asphalt Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Flaming Passion Power Crystal",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Flaming Passion Box Gem",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Flaming Passion Death Route",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Flaming Passion Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mad Bombers Power Crystal",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mad Bombers Box Gem",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mad Bombers Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bug Lite Power Crystal",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bug Lite Box Gem",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bug Lite Secret Gem",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": "|Yellow Time Gem| AND |Red Time Gem| AND |Purple Time Gem| AND |Blue Time Gem| AND |Green Time Gem|"
+  },
+  {
+    "name": "Bug Lite Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ski Crazed Box Gem",
+    "region": "Secret Warp",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:5|"
+  },
+  {
+    "name": "Ski Crazed Time Trial",
+    "region": "Secret Warp",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:5|"
+  },
+  {
+    "name": "Area 51? First Place Gem",
+    "region": "Secret Warp",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:15|"
+  },
+  {
+    "name": "Area 51? Box Gem",
+    "region": "Secret Warp",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:15|"
+  },
+  {
+    "name": "Area 51? Time Trial",
+    "region": "Time Trials",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:15|"
+  },
+  {
+    "name": "Rings of Power Level Clear Gem",
+    "region": "Secret Warp",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:25|"
+  },
+  {
+    "name": "Rings of Power Box Gem",
+    "region": "Secret Warp",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:25|"
+  },
+  {
+    "name": "Rings of Power Time Trial",
+    "region": "Secret Warp",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:25|"
+  },
+  {
+    "name": "Coco's Gem - All Relics Gold or Better",
+    "region": "Secret Warp",
+    "category": [
+      "Crash 3", "F - Secret Warp"
+    ],
+    "requires": "|Relic:30| AND |Time Crystal:25|"
+  },
+  {
+    "name": "Neo Cortex Round 3",
+    "region": "Fifth Warp",
+    "category": [
+      "Crash 3", "E - Fifth Warp"
+    ],
+    "requires": "|Time Crystal:25|",
+    "place_item": ["Cortex 3 Defeated"]
+  }
+]

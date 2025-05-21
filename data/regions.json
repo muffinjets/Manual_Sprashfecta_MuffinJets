@@ -1,0 +1,188 @@
+{
+  "Game Hub": {
+    "starting": true,
+    "connects_to": [
+      "N. Sanity Island",
+      "First Floor",
+      "First Warp",
+      "Artisans Homeworld",
+      "Glimmer",
+      "Sunrise Spring"
+    ],
+    "requires": []
+  },
+  "N. Sanity Island": {
+    "connects_to": [
+      "Middle Island"
+    ],
+    "requires": []
+  },
+  "Middle Island": {
+    "connects_to": [
+      "Cortex Island"
+    ],
+    "requires": "|Island Pass:1|"
+  },
+  "Cortex Island": {
+    "connects_to": [],
+    "requires": "|Island Pass:2|"
+  },
+  "First Floor": {
+    "connects_to": [
+      "Second Floor"
+    ],
+    "requires": []
+  },
+  "Second Floor": {
+    "connects_to": [
+      "Third Floor"
+    ],
+    "requires": "|Striking Crystal:5|"
+  },
+  "Third Floor": {
+    "connects_to": [
+      "Fourth Floor"
+    ],
+    "requires": "|Striking Crystal:10|"
+  },
+  "Fourth Floor": {
+    "connects_to": [
+      "Fifth Floor"
+    ],
+    "requires": "|Striking Crystal:15|"
+  },
+  "Fifth Floor": {
+    "connects_to": [],
+    "requires": "|Striking Crystal:20|"
+  },
+  "First Warp": {
+    "connects_to": [
+      "Second Warp",
+      "Time Trials",
+      "Secret Warp"
+    ],
+    "requires": []
+  },
+  "Second Warp": {
+    "connects_to": [
+      "Third Warp"
+    ],
+    "requires": "|Time Crystal:5|"
+  },
+  "Third Warp": {
+    "connects_to": [
+      "Fourth Warp"
+    ],
+    "requires": "|Time Crystal:10|"
+  },
+  "Fourth Warp": {
+    "connects_to": [
+      "Fifth Warp"
+    ],
+    "requires": "|Time Crystal:15|"
+  },
+  "Fifth Warp": {
+    "connects_to": [],
+    "requires": "|Time Crystal:20|"
+  },
+  "Secret Warp": {
+    "connects_to": [],
+    "requires": "|Time Relic:5| AND |Time Crystal:25|"
+  },
+  "Time Trials": {
+    "connects_to": [],
+    "requires": "|Time Crystal:25|"
+  },
+  "Artisans Homeworld": {
+    "connects_to": [
+      "Peace Keepers Homeworld",
+      "Magic Crafters Homeworld",
+      "Beast Makers Homeworld",
+      "Dream Weavers Homeworld",
+      "Gnasty's World"
+    ],
+    "requires": []
+  },
+  "Peace Keepers Homeworld": {
+    "connects_to": [],
+    "requires": "|Peace Keepers Homeworld|"
+  },
+  "Magic Crafters Homeworld": {
+    "connects_to": [],
+    "requires": "|Magic Crafters Homeworld|"
+  },
+  "Beast Makers Homeworld": {
+    "connects_to": [],
+    "requires": "|Beast Makers Homeworld|"
+  },
+  "Dream Weavers Homeworld": {
+    "connects_to": [],
+    "requires": "|Dream Weavers Homeworld|"
+  },
+  "Gnasty's World": {
+    "connects_to": [],
+    "requires": "|Toasty's Stilts| AND |Shemp's Staff| AND |Blowhard's Beard| AND |Metalhead's Mohawk| AND |Jacques' Ribbon|"
+  },
+  "Glimmer": {
+    "connects_to": [
+      "Summer Forest"
+    ],
+    "requires": []
+  },
+  "Summer Forest": {
+    "connects_to": [
+      "Summer Forest Post-Swim"
+    ],
+    "requires": []
+  },
+  "Summer Forest Post-Swim": {
+    "connects_to": [
+      "Autumn Plains"
+    ],
+    "requires": "|Swimming|"
+  },
+  "Autumn Plains": {
+    "connects_to": [
+      "Autumn Plains Post-Climb"
+    ],
+    "requires": "|Talisman:6| AND |Orb:3|"
+  },
+  "Autumn Plains Post-Climb": {
+    "connects_to": [
+      "Winter Tundra"
+    ],
+    "requires": "|Climbing|"
+  },
+  "Winter Tundra": {
+    "connects_to": [
+      "Winter Tundra Post-Rock"
+    ],
+    "requires": "|Talisman:14|"
+  },
+  "Winter Tundra Post-Rock": {
+    "connects_to": [],
+    "requires": "|Headbash|"
+  },
+  "Sunrise Spring": {
+    "connects_to": [
+      "Midday Gardens"
+    ],
+    "requires": []
+  },
+  "Midday Gardens": {
+    "connects_to": [
+      "Evening Lake"
+    ],
+    "requires": "|Sheila| AND |Large Dragon Egg:14|"
+  },
+  "Evening Lake": {
+    "connects_to": [
+      "Midnight Mountain"
+    ],
+    "requires": "|Sheila| AND |Sgt. Byrd| AND |Large Dragon Egg:30|"
+  },
+  "Midnight Mountain": {
+    "connects_to": [],
+    "requires": "|Sheila| AND |Sgt. Byrd| AND |Bentley| AND |Large Dragon Egg:30|"
+  }
+}

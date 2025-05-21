@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Sprashfecta",
+  "creator": "MuffinJets",
+  "filler_item_name": "Loose Gem",
+  "death_link": true,
+  "starting_items": []
+}

@@ -1,0 +1,30 @@
+{
+    "Crash 1": {
+        "yaml_option": ["Crash_1"],
+        "hidden": true
+        },
+    "Crash 2": {
+        "yaml_option": ["Crash_2"],
+        "hidden": true
+        },
+    "Crash 3": {
+        "yaml_option": ["Crash_3"],
+        "hidden": true
+        },
+    "Crash NST Content": {
+        "yaml_option": ["Crash_NST_Content"],
+        "hidden": true
+        },
+    "Spyro 1": {
+        "yaml_option": ["Spyro_1"],
+        "hidden": true
+        },
+    "Spyro 2": {
+        "yaml_option": ["Spyro_2"],
+        "hidden": true
+        },
+    "Spyro 3": {
+        "yaml_option": ["Spyro_3"],
+        "hidden": true
+        }
+}

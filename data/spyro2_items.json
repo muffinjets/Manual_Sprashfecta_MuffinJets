@@ -1,0 +1,47 @@
+[
+    {
+      "count": 14,
+      "name": "Talisman",
+      "category": [
+        "Spyro 2",
+        "A - Spyro 2 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 64,
+      "name": "Orb",
+      "category": [
+        "Spyro 2",
+        "A - Spyro 2 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Swimming",
+      "category": [
+        "Spyro 2",
+        "A - Spyro 2 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Climbing",
+      "category": [
+        "Spyro 2",
+        "A - Spyro 2 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Headbash",
+      "category": [
+        "Spyro 2",
+        "A - Spyro 2 Items"
+      ],
+      "progression": true
+    }
+]

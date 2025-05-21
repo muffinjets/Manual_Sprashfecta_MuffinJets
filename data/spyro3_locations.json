@@ -1,0 +1,1579 @@
+[
+  {
+    "name": "Sunrise Spring Egg by the stream",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunrise Spring Learn gliding",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunrise Spring Fly through the cave",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunrise Spring Bottom of the lake",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunrise Spring Head bash the rock",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunrise Spring 400 Gems",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunrise Spring Moneybags",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunny Villa Rescue the mayor",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunny Villa Egg by the building",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunny Villa Lizard skating I",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunny Villa Lizard skating II",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunny Villa Hop to Rapunzel",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
+    "name": "Sunny Villa Glide to the spring",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunny Villa 400 Gems",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
+    "name": "Sunny Villa Flame all trees skill point",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunny Villa Beat the course record skill point",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cloud Spires Turn on the cloud generator",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cloud Spires Run along the wall",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cloud Spires Plant the sun seeds",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cloud Spires Bell tower spirits",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cloud Spires Bell tower thief",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cloud Spires Glide to the island",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cloud Spires 400 Gems",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Molten Crater Get to the tiki lodge",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:10|"
+  },
+  {
+    "name": "Molten Crater Egg by lava river",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:10|"
+  },
+  {
+    "name": "Molten Crater Replace idol heads",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:10| AND |Sgt. Byrd| AND |Progressive Forgotten Realms Access:1|"
+  },
+  {
+    "name": "Molten Crater Sgt. Byrd blows up a wall",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:10| AND |Sgt. Byrd| AND |Progressive Forgotten Realms Access:1|"
+  },
+  {
+    "name": "Molten Cratrer Catch the thief",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:10|"
+  },
+  {
+    "name": "Molten Crater Supercharge after the thief",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:10|"
+  },
+  {
+    "name": "Molten Crater 400 Gems",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:10| AND |Sgt. Byrd| AND |Progressive Forgotten Realms Access:1|"
+  },
+  {
+    "name": "Molten Crater Put the heads together skill point",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sgt. Byrd| AND |Large Dragon Egg:10| AND |Progressive Forgotten Realms Access:1|"
+  },
+  {
+    "name": "Molten Crater Supercharge the wall skill point",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:10|"
+  },
+  {
+    "name": "Seashell Shore Free the seals",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:14|"
+  },
+  {
+    "name": "Seashell Shore Under the rocks",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:14|"
+  },
+  {
+    "name": "Seashell Shore Clear out the pipe",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:14|"
+  },
+  {
+    "name": "Seashell Shore Defeat the shark sub",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:14|"
+  },
+  {
+    "name": "Seashell Shore Destroy the sand castle",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila| AND |Large Dragon Egg:14|"
+  },
+  {
+    "name": "Seashell Shore Hop to the secret cave",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila| AND |Large Dragon Egg:14|"
+  },
+  {
+    "name": "Seashell Shore 400 Gems",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila| AND |Large Dragon Egg:14|"
+  },
+  {
+    "name": "Seashell Shore Catch the funky chicken skill point",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:14|"
+  },
+  {
+    "name": "Mushroom Speedway Time attack",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:20|"
+  },
+  {
+    "name": "Mushroom Speedway Race the butterflies",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:20|"
+  },
+  {
+    "name": "Mushroom Speedway Hunter's dogfight",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:20|"
+  },
+  {
+    "name": "Buzz' Dungeon",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:14| AND |Progressive Forgotten Realms Access:1| AND |Sheila|"
+  },
+  {
+    "name": "Crawdad Farm Take Sparx to the farm",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:14| AND |Progressive Forgotten Realms Access:1| AND |Sheila|"
+  },
+  {
+    "name": "Crawdad Farm 200 Gems",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Large Dragon Egg:14| AND |Progressive Forgotten Realms Access:1| AND |Sheila|"
+  },
+  {
+    "name": "Midday Gardens Underwater Egg",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midday Gardens Secret ice cave",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midday Gardens Catch the thief",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midday Gardens Superflame the flowerpots",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midday Gardens Climb to the ledge",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midday Gardens 400 Gems",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midday Gardens Moneybags",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icy Peak Find Doug the polar bear",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icy Peak On top of a ledge",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icy Peak Protect Nancy the skater",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icy Peak Speedy thieves I",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icy Peak Speedy thieves II",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icy Peak Glide to the sky island",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icy Peak 500 Gems",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Icy Peak Glide to pedestal skill point",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted Towers Destroy the Sorceress statue",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted Towers Glide to the small island",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted Towers Trick skater I",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted Towers Trick skater II",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted Towers Rescue the lost wolf",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted Towers Collect the bones",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Sgt. Byrd|"
+  },
+  {
+    "name": "Enchanted Towers 500 Gems",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted Towers Beat the course record skill point",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spooky Swamp Find Shiny the firefly",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:25|"
+  },
+  {
+    "name": "Spooky Swamp Jump to the island",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:25|"
+  },
+  {
+    "name": "Spooky Swamp Escort the twins I",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:25| AND |Sheila|"
+  },
+  {
+    "name": "Spooky Swamp Escort the twins II",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:25| AND |Sheila|"
+  },
+  {
+    "name": "Spooky Swamp Defeat Sleepyhead",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:25|"
+  },
+  {
+    "name": "Spooky Swamp Across the treetops",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:25|"
+  },
+  {
+    "name": "Spooky Swamp Destroy all piranha signs skill point",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:25|"
+  },
+  {
+    "name": "Spooky Swamp 500 Gems",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:25| AND |Sheila|"
+  },
+  {
+    "name": "Bamboo Terrace Clear the panda's path",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30|"
+  },
+  {
+    "name": "Bamboo Terrace Glide to the small island",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30|"
+  },
+  {
+    "name": "Bamboo Terrace Glide to the hidden cave",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30|"
+  },
+  {
+    "name": "Bamboo Terrace Smash to the mountain top",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30| AND |Bentley| AND |Progressive Forgotten Realms Access:2|"
+  },
+  {
+    "name": "Bamboo Terrace Shoot from the boat",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30|"
+  },
+  {
+    "name": "Bamboo Terrace Catch the Thief",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30|"
+  },
+  {
+    "name": "Bamboo Terrace 500 Gems",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30| AND |Bentley|"
+  },
+  {
+    "name": "Country Speedway Time attack",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Country Speedway Race the pigs",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Country Speedway Hunter's rescue mission",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sgt. Byrd's Base Clear the building",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Sgt. Byrd|"
+  },
+  {
+    "name": "Sgt. Byrd's Base Clear the caves",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Sgt. Byrd|"
+  },
+  {
+    "name": "Sgt. Byrd's Base Rescue 5 hummingbirds",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Sgt. Byrd|"
+  },
+  {
+    "name": "Sgt. Byrd Destroy the gophers skill point",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spike's Arena",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30| AND |Bentley| AND |Progressive Forgotten Realms Access:2|"
+  },
+  {
+    "name": "Spider Town Go to town",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30| AND |Bentley| AND |Progressive Forgotten Realms Access:2|"
+  },
+  {
+    "name": "Spider Town 200 Gems",
+    "region": "Midday Gardens",
+    "category": [
+      "Spyro 3", "Q - Midday Gardens"
+    ],
+    "requires": "|Large Dragon Egg:30| AND |Bentley| AND |Progressive Forgotten Realms Access:2|"
+  },
+  {
+    "name": "Evening Lake Glide to the tower",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evening Lake I'm invincible!",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evening Lake On the bridge",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evening Lake Break the tower wall",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evening Lake Belly of the whale",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evening Lake Moneybags",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evening Lake 400 Gems",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Frozen Altars Melt the snowmen",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Frozen Altars Catch the ice cats",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Frozen Altars Across the rooftops",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Frozen Altars Glide from the temple roof",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Frozen Altars Box the yeti",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Frozen Altars Box the yeti again!",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Frozen Altars Beat Yeti in two rounds",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Frozen Altars 600 Gems",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Fleet Find Crazy Ed's treasure",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Fleet Swim through acid",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Fleet Sink the subs I",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Fleet Sink the subs II",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Fleet Skate race the Rhynocs",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Fleet Skate Race Hunter",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Fleet Beat the course record skill point",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Fleet 600 Gems",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireworks Factory Destroy the wocket",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireworks Factory Hidden in an alcove",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireworks Factory Bad dragon!",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireworks Factory Ninja HQ",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireworks Factory You're Doomed!",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Agent 9| AND |Progressive Forgotten Realms Access:3|"
+  },
+  {
+    "name": "Fireworks Factory You're still Doomed!",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Agent 9| AND |Progressive Forgotten Realms Access:3|"
+  },
+  {
+    "name": "Fireworks Factory Agent 9's powerup skill point",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Agent 9| AND |Progressive Forgotten Realms Access:3|"
+  },
+  {
+    "name": "Fireworks Factory 600 Gems",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Agent 9| AND |Progressive Forgotten Realms Access:3|"
+  },
+  {
+    "name": "Charmed Ridge Rescue the fairy princess",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Charmed Ridge Egg in the cave",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Charmed Ridge Glide to the tower",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Charmed Ridge Cat Witch Chaos",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Sgt. Byrd|"
+  },
+  {
+    "name": "Charmed Ridge Jack and the beanstalk I",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Charmed Ridge Jack and the beanstalk II",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Charmed Ridge Land on impossible tower skill point",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Charmed Ridge Shoot out all the cat witch windows skill point",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Sgt. Byrd|"
+  },
+  {
+    "name": "Charmed Ridge 600 Gems",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Sgt. Byrd|"
+  },
+  {
+    "name": "Honey Speedway Time attack",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Honey Speedway Race the bumblebees",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Honey Speedway Hunter's chase",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bentley's Outpost The gong show",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Bentley's Outpost Snowball's chance",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Bentley's Outpost Help bartholomew home",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Bentley's Outpost Push the crate off the cliff skill point",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Bentley's Outpost 600 Gems",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Scorch's Pit",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Progressive Forgotten Realms Access:3| AND |Bentley|"
+  },
+  {
+    "name": "Starfish Reef Beach party!",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Progressive Forgotten Realms Access:3| AND |Bentley|"
+  },
+  {
+    "name": "Starfish Reef 200 Gems",
+    "region": "Evening Lake",
+    "category": [
+      "Spyro 3", "R - Evening Lake"
+    ],
+    "requires": "|Progressive Forgotten Realms Access:3| AND |Bentley|"
+  },
+  {
+    "name": "Midnight Mountain Glide to the island",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Mountain Shhh, it's a secret",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Mountain Catch the thief",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Mountain Stomp the floor",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Mountain At the top of the waterfall",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Mountain Egg for sale",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Large Dragon Egg:100|"
+  },
+  {
+    "name": "Midnight Mountain Moneybags",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crystal Islands Reach the crystal tower",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crystal Islands Whack a mole",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Crystal Islands Catch the flying thief",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crystal Islands Fly to the hidden egg",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crystal Islands Glide to the island",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crystal Islands Ride the slide",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crystal Islands 700 Gems",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Bentley|"
+  },
+  {
+    "name": "Desert Ruins Raid the tomb",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Ruins Shark shootin'",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Ruins Krash kangaroo I",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
+    "name": "Desert Ruins Krash kangaroo II",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
+    "name": "Desert Ruins Sink or singe",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Ruins Give me a hand",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Ruins Destroy all seaweed skill point",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desert Ruins 700 Gems",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
+    "name": "Haunted Tomb Release the temple dweller",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted Tomb Snake slide",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted Tomb Tank blast I",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted Tomb Tank blast II",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted Tomb Clear the caves",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Haunted Tomb Climb the wall",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted Tomb Swim into the dark hole skill point",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted Tomb 700 Gems",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Dino Mines Jail break!",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dino Mines Shafted!",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dino Mines Swim through the wall",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dino Mines Gunfight at the Jurassic corral",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Dino Mines Leap of Faith",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dino Mines Take it to the bank",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Dino Mines Kill all seahorses skill point",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dino Mines Kill the secret dino skill point",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Dino Mines 700 Gems",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Harbor Speedway Time attack",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harbor Speedway Race the blue footed boobies",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harbor Speedway Hunter's pursuit",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Agent 9's Lab Blast and bomb the Rhynocs",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Agent 9's Lab Snipe the boats",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Agent 9's Lab This place has gone to the birds",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Agent 9's Lab Blow up all palm trees skill point",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Agent 9's Lab 700 Gems",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Agent 9|"
+  },
+  {
+    "name": "Sorceress's Lair",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Large Dragon Egg:100|",
+    "place_item": ["Sorceress Defeated"]
+  },
+  {
+    "name": "Bugbot Factory Shut down the factory",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Large Dragon Egg:100|"
+  },
+  {
+    "name": "Bugbot Factory 200 Gems",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Large Dragon Egg:100|"
+  },
+  {
+    "name": "Super Bonus Round Egg",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Large Dragon Egg:149|"
+  },
+  {
+    "name": "Super Bonus Round 5000 Gems",
+    "region": "Midnight Mountain",
+    "category": [
+      "Spyro 3", "S - Midnight Mountain"
+    ],
+    "requires": "|Large Dragon Egg:149|"
+  }
+]

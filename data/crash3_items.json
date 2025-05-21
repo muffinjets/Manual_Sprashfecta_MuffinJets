@@ -1,0 +1,66 @@
+[
+    {
+        "count": 25,
+        "name": "Time Crystal",
+        "category": [
+          "Crash 3", "5 - Crash 3 Items"
+        ],
+        "progression": true
+      },
+      {
+        "count": 40,
+        "name": "Clear Time Gem",
+        "category": [
+          "Crash 3", "5 - Crash 3 Items"
+        ],
+        "progression_skip_balancing": true
+      },
+      {
+        "count": 30,
+        "name": "Time Relic",
+        "category": [
+          "Crash 3", "5 - Crash 3 Items"
+        ],
+        "progression": true
+      },
+      {
+        "count": 1,
+        "name": "Blue Time Gem",
+        "category": [
+          "Crash 3", "6 - Crash 3 Colored Gems"
+        ],
+        "progression": true
+      },
+      {
+        "count": 1,
+        "name": "Red Time Gem",
+        "category": [
+          "Crash 3", "6 - Crash 3 Colored Gems"
+        ],
+        "progression": true
+      },
+      {
+        "count": 1,
+        "name": "Green Time Gem",
+        "category": [
+          "Crash 3", "6 - Crash 3 Colored Gems"
+        ],
+        "progression": true
+      },
+      {
+        "count": 1,
+        "name": "Yellow Time Gem",
+        "category": [
+          "Crash 3", "6 - Crash 3 Colored Gems"
+        ],
+        "progression": true
+      },
+      {
+        "count": 1,
+        "name": "Purple Time Gem",
+        "category": [
+          "Crash 3", "6 - Crash 3 Colored Gems"
+        ],
+        "progression": true
+      }
+]
