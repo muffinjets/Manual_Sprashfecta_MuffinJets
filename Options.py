@@ -32,7 +32,10 @@ for category in category_table:
             option_name = option_name[1:]
         if option_name not in manual_options:
             manual_options[option_name] = type(option_name, (DefaultOnToggle,), {"default": False})
-            manual_options[option_name].__doc__ = "Should items/locations linked to this option be enabled?"
+            # Use custom documentation if available, otherwise use default
+            doc = category_table[category].get("doc", "Should items/locations linked to this option be enabled?")
+            # Convert newlines in the doc string to actual newlines
+            manual_options[option_name].__doc__ = doc.replace("\\n", "\n")
 
 if starting_items:
     for starting_items in starting_items:
@@ -41,7 +44,7 @@ if starting_items:
                 if option_name[0] == "!":
                     option_name = option_name[1:]
                 if option_name not in manual_options:
-                    manual_options[option_name] = type(option_name, (DefaultOnToggle,), {"default": False})
+                    manual_options[option_name] = type(option_name, (DefaultOnToggle,), {"default": True})
                     manual_options[option_name].__doc__ = "Should items/locations linked to this option be enabled?"
 
 manual_options = after_options_defined(manual_options)

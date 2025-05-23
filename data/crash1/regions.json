@@ -1,0 +1,24 @@
+[
+    {
+        "N. Sanity Island": {
+            "connects_to": [
+                "Middle Island"
+            ],
+            "requires": []
+        }
+    },
+    {
+        "Middle Island": {
+            "connects_to": [
+                "Cortex Island"
+            ],
+            "requires": "|Island Pass:1|"
+        }
+    },
+    {
+        "Cortex Island": {
+            "connects_to": [],
+            "requires": "|Island Pass:2|"
+        }
+    }
+]

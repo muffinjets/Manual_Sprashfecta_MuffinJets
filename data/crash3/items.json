@@ -13,7 +13,7 @@
         "category": [
           "Crash 3", "5 - Crash 3 Items"
         ],
-        "progression_skip_balancing": true
+        "filler": true
       },
       {
         "count": 30,

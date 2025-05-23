@@ -1,0 +1,56 @@
+[
+    {
+        "Glimmer": {
+            "connects_to": [
+                "Summer Forest"
+            ],
+            "requires": []
+        }
+    },
+    {
+        "Summer Forest": {
+            "connects_to": [
+                "Summer Forest Post-Swim"
+            ],
+            "requires": []
+        }
+    },
+    {
+        "Summer Forest Post-Swim": {
+            "connects_to": [
+                "Autumn Plains"
+            ],
+            "requires": "|Swimming|"
+        }
+    },
+    {
+        "Autumn Plains": {
+            "connects_to": [
+                "Autumn Plains Post-Climb"
+            ],
+            "requires": "|Talisman:6| AND |Orb:3|"
+        }
+    },
+    {
+        "Autumn Plains Post-Climb": {
+            "connects_to": [
+                "Winter Tundra"
+            ],
+            "requires": "|Climbing|"
+        }
+    },
+    {
+        "Winter Tundra": {
+            "connects_to": [
+                "Winter Tundra Post-Rock"
+            ],
+            "requires": "|Talisman:14|"
+        }
+    },
+    {
+        "Winter Tundra Post-Rock": {
+            "connects_to": [],
+            "requires": "|Headbash|"
+        }
+    }
+]

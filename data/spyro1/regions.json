@@ -1,0 +1,44 @@
+[
+    {
+        "Artisans Homeworld": {
+            "connects_to": [
+                "Peace Keepers Homeworld",
+                "Magic Crafters Homeworld",
+                "Beast Makers Homeworld",
+                "Dream Weavers Homeworld",
+                "Gnasty's World"
+            ],
+            "requires": []
+        }
+    },
+    {
+        "Peace Keepers Homeworld": {
+            "connects_to": [],
+            "requires": "|Peace Keepers Homeworld|"
+        }
+    },
+    {
+        "Magic Crafters Homeworld": {
+            "connects_to": [],
+            "requires": "|Magic Crafters Homeworld|"
+        }
+    },
+    {
+        "Beast Makers Homeworld": {
+            "connects_to": [],
+            "requires": "|Beast Makers Homeworld|"
+        }
+    },
+    {
+        "Dream Weavers Homeworld": {
+            "connects_to": [],
+            "requires": "|Dream Weavers Homeworld|"
+        }
+    },
+    {
+        "Gnasty's World": {
+            "connects_to": [],
+            "requires": "|Toasty's Stilts| AND |Shemp's Staff| AND |Blowhard's Beard| AND |Metalhead's Mohawk| AND |Jacques' Ribbon|"
+        }
+    }
+]

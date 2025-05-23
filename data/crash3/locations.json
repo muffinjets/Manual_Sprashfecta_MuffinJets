@@ -837,7 +837,7 @@
     "category": [
       "Crash 3", "E - Fifth Warp"
     ],
-    "requires": "|Time Crystal:25|",
+    "requires": "|Time Crystal:20|",
     "place_item": ["Cortex 3 Defeated"]
   }
 ]
