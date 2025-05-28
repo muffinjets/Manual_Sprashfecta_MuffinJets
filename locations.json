@@ -1,0 +1,482 @@
+[
+  {
+    "name": "N. Sanity Beach Level Clear",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Beach Box Gem",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Rollers Level Clear",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Rollers Box Gem",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": "|Green Island Gem| AND |Island Pass:1|"
+  },
+  {
+    "name": "The Great Gate Level Clear",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Great Gate Box Gem",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": "|Yellow Island Gem| AND |Island Pass:2|"
+  },
+  {
+    "name": "Boulders Level Clear",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Boulders Box Gem",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Upstream Level Clear",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Upstream Box Gem",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": "|Orange Island Gem| AND |Island Pass:2|"
+  },
+  {
+    "name": "Papu Papu",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rolling Stones Level Clear",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rolling Stones Box Gem",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": "|Blue Island Gem| AND |Island Pass:2|"
+  },
+  {
+    "name": "Hog Wild Level Clear",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hog Wild Box Gem",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Native Fortress Level Clear",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Native Fortress Box Gem",
+    "region": "N. Sanity Island",
+    "category": [
+      "Crash 1", "1 - N. Sanity Island"
+    ],
+    "requires": "|Red Island Gem| AND |Island Pass:2|"
+  },
+  {
+    "name": "Up the Creek Level Clear",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Up the Creek Box Gem",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ripper Roo Round 1",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Lost City Level Clear",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Lost City Box Gem",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Temple Ruins Level Clear",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Temple Ruins Box Gem",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to Nowhere Level Clear",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to Nowhere Box Gem",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": "|Red Island Gem| AND |Island Pass:2|"
+  },
+  {
+    "name": "Boulder Dash Level Clear",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Boulder Dash Box Gem",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": "|Purple Island Gem| AND |Yellow Island Gem| AND |Island Pass:2|"
+  },
+  {
+    "name": "Whole Hog Level Clear",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Whole Hog Box Gem",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Koala Kong",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunset Vista Level Clear",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunset Vista Box Gem",
+    "region": "Middle Island",
+    "category": [
+      "Crash 1", "2 - Middle Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Heavy Machinery Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Heavy Machinery Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cortex Power Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cortex Power Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": "|Blue Island Gem|"
+  },
+  {
+    "name": "Generator Room Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Generator Room Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Toxic Waste Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Toxic Waste Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Pinstripe Potoroo",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The High Road Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The High Road Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Slippery Climb Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Slippery Climb Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lights Out Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lights Out Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": "|Yellow Island Gem|"
+  },
+  {
+    "name": "Fumbling in the Dark Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fumbling in the Dark Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jaws of Darkness Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jaws of Darkness Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": "|Blue Island Gem|"
+  },
+  {
+    "name": "Castle Machinery Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Castle Machinery Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": "|Green Island Gem|"
+  },
+  {
+    "name": "Dr. Nitrus Brio",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Lab Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Lab Box Gem",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Great Hall Level Clear",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Great Hall Secret Ending",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": "|Green Island Gem| AND |Orange Island Gem| AND |Blue Island Gem| AND |Red Island Gem| AND |Purple Island Gem| AND |Yellow Island Gem| AND |Clear Island Gem:20|"
+  },
+  {
+    "name": "Neo Cortex Round 1",
+    "region": "Cortex Island",
+    "category": [
+      "Crash 1", "3 - Cortex Island"
+    ],
+    "requires": "|Island Pass:2|",
+    "place_item": ["Cortex Defeated on the Islands"]
+  }
+]
