@@ -61,5 +61,14 @@
       "4 - Crash 2 Colored Gems"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cortex Defeated in the Temples",
+    "category": [
+      "Crash 2",
+      "Victory Tokens"
+    ],
+    "progression": true
   }
 ]

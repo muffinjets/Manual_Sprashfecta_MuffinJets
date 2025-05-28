@@ -43,5 +43,14 @@
       "B - Spyro 3 Items"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorceress Defeated",
+    "category": [
+      "Spyro 3",
+      "Victory Tokens"
+    ],
+    "progression": true
   }
 ]

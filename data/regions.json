@@ -1,14 +1,5 @@
 {
   "Game Hub": {
-    "starting": true,
-    "connects_to": [
-      "N. Sanity Island",
-      "First Floor",
-      "First Warp",
-      "Artisans Homeworld",
-      "Glimmer",
-      "Sunrise Spring"
-    ],
-    "requires": []
+    "starting": true
   }
 }

@@ -358,5 +358,14 @@
       "9 - Spyro 1 Levels"
     ],
     "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gnasty Defeated",
+    "category": [
+      "Spyro 1",
+      "Victory Tokens"
+    ],
+    "progression": true
   }
 ]

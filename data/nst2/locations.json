@@ -5,7 +5,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "4 - First Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Snow Go Time Trial",
@@ -13,7 +13,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "4 - First Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Hang Eight Time Trial",
@@ -21,7 +21,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "4 - First Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "The Pits Time Trial",
@@ -29,7 +29,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "4 - First Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Crash Dash Time Trial",
@@ -37,7 +37,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "4 - First Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Snow Biz Time Trial",
@@ -45,7 +45,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "5 - Second Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Air Crash Time Trial",
@@ -53,7 +53,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "5 - Second Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Bear It Time Trial",
@@ -61,7 +61,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "5 - Second Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Crash Crush Time Trial",
@@ -69,7 +69,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "5 - Second Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "The Eel Deal Time Trial",
@@ -77,7 +77,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "5 - Second Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Plant Food Time Trial",
@@ -85,7 +85,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "6 - Third Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Sewer or Later Time Trial",
@@ -93,7 +93,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "6 - Third Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Bear Down Time Trial",
@@ -101,7 +101,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "6 - Third Floor"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Road To Ruin Time Trial",
@@ -109,7 +109,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "6 - Third Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Un-Bearable Time Trial",
@@ -117,7 +117,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "6 - Third Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Hangin' Out Time Trial",
@@ -125,7 +125,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "7 - Fourth Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Diggin' It Time Trial",
@@ -133,7 +133,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "7 - Fourth Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Cold Hard Crash Time Trial",
@@ -141,7 +141,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "7 - Fourth Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Ruination Time Trial",
@@ -149,7 +149,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "7 - Fourth Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Bee-Having Time Trial",
@@ -157,7 +157,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "7 - Fourth Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Piston It Away Time Trial",
@@ -165,7 +165,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "8 - Fifth Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Rock It Time Trial",
@@ -173,7 +173,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "8 - Fifth Floor"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Night Flight Time Trial",
@@ -181,7 +181,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "8 - Fifth Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Pack Attack Time Trial",
@@ -189,7 +189,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "8 - Fifth Floor"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Spaced Out Time Trial",
@@ -197,7 +197,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "8 - Fifth Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Totally Bear Time Trial",
@@ -205,7 +205,7 @@
     "category": [
       "Crash 2", "Crash NST Content", "6 - Third Floor", "9 - Secret Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   },
   {
     "name": "Totally Fly Time Trial",
@@ -213,6 +213,6 @@
     "category": [
       "Crash 2", "Crash NST Content", "7 - Fourth Floor", "9 - Secret Floor"
     ],
-    "requires": ["|Striking Crystal:25|"]
+    "requires": "|Striking Crystal:25|"
   }
 ]

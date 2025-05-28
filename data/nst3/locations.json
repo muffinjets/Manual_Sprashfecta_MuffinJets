@@ -5,7 +5,7 @@
         "category": [
           "Crash 3", "Crash NST Content"
         ],
-        "requires": []
+        "requires": ""
     },
     {
         "name": "Future Tense Death Route",
@@ -13,7 +13,7 @@
         "category": [
             "Crash 3", "Crash NST Content"
         ],
-        "requires": []
+        "requires": ""
     },
     {
         "name": "Future Tense Time Trial",
@@ -21,6 +21,6 @@
         "category": [
             "Crash 3", "Crash NST Content"
         ],
-        "requires": []
+        "requires": ""
     }
 ]

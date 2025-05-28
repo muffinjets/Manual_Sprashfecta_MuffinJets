@@ -46,85 +46,57 @@ class ManualFile:
         return contents
 
 
-# Load base tables
 game_table = ManualFile('game.json', dict).load() #dict
-item_table = convert_to_list(ManualFile('items.json', list).load(), 'data') #list
-location_table = convert_to_list(ManualFile('locations.json', list).load(), 'data') #list
-region_table = ManualFile('regions.json', dict).load() #dict
+item_table = [
+    item 
+    for file in [
+        'items.json',
+        'crash1/items.json',
+        'crash2/items.json',
+        'crash3/items.json',
+        'nst1/items.json',
+        'nst2/items.json',
+        'nst3/items.json',
+        'spyro1/items.json',
+        'spyro2/items.json',
+        'spyro3/items.json'
+    ] 
+    for item in convert_to_list(ManualFile(file, list).load(), 'data')
+] #list
+location_table = [
+    item 
+    for file in [
+        'locations.json',
+        'crash1/locations.json',
+        'crash2/locations.json',
+        'crash3/locations.json',
+        'nst1/locations.json',
+        'nst2/locations.json',
+        'nst3/locations.json',
+        'spyro1/locations.json',
+        'spyro2/locations.json',
+        'spyro3/locations.json'
+    ] 
+    for item in convert_to_list(ManualFile(file, list).load(), 'data')
+] #list
+region_table = {
+    key: value
+    for file in [
+        'regions.json',
+        'crash1/regions.json',
+        'crash2/regions.json',
+        'crash3/regions.json',
+        'nst1/regions.json',
+        'nst2/regions.json',
+        'nst3/regions.json',
+        'spyro1/regions.json',
+        'spyro2/regions.json',
+        'spyro3/regions.json'
+    ]
+    for key, value in ManualFile(file, dict).load().items()
+} #dict
 category_table = ManualFile('categories.json', dict).load() #dict
 meta_table = ManualFile('meta.json', dict).load() #dict
-
-# Load Crash 1 data
-crash1_items = convert_to_list(ManualFile('data/crash1/items.json', list).load(), 'data')
-crash1_locations = convert_to_list(ManualFile('data/crash1/locations.json', list).load(), 'data')
-crash1_regions = ManualFile('data/crash1/regions.json', dict).load()
-item_table.extend(crash1_items)
-location_table.extend(crash1_locations)
-region_table.update(crash1_regions)
-
-# Load Crash 2 data
-crash2_items = convert_to_list(ManualFile('data/crash2/items.json', list).load(), 'data')
-crash2_locations = convert_to_list(ManualFile('data/crash2/locations.json', list).load(), 'data')
-crash2_regions = ManualFile('data/crash2/regions.json', dict).load()
-item_table.extend(crash2_items)
-location_table.extend(crash2_locations)
-region_table.update(crash2_regions)
-
-# Load Crash 3 data
-crash3_items = convert_to_list(ManualFile('data/crash3/items.json', list).load(), 'data')
-crash3_locations = convert_to_list(ManualFile('data/crash3/locations.json', list).load(), 'data')
-crash3_regions = ManualFile('data/crash3/regions.json', dict).load()
-item_table.extend(crash3_items)
-location_table.extend(crash3_locations)
-region_table.update(crash3_regions)
-
-# Load NST 1 data
-nst1_items = convert_to_list(ManualFile('data/nst1/items.json', list).load(), 'data')
-nst1_locations = convert_to_list(ManualFile('data/nst1/locations.json', list).load(), 'data')
-nst1_regions = ManualFile('data/nst1/regions.json', dict).load()
-item_table.extend(nst1_items)
-location_table.extend(nst1_locations)
-region_table.update(nst1_regions)
-
-# Load NST 2 data
-nst2_items = convert_to_list(ManualFile('data/nst2/items.json', list).load(), 'data')
-nst2_locations = convert_to_list(ManualFile('data/nst2/locations.json', list).load(), 'data')
-nst2_regions = ManualFile('data/nst2/regions.json', dict).load()
-item_table.extend(nst2_items)
-location_table.extend(nst2_locations)
-region_table.update(nst2_regions)
-
-# Load NST 3 data
-nst3_items = convert_to_list(ManualFile('data/nst3/items.json', list).load(), 'data')
-nst3_locations = convert_to_list(ManualFile('data/nst3/locations.json', list).load(), 'data')
-nst3_regions = ManualFile('data/nst3/regions.json', dict).load()
-item_table.extend(nst3_items)
-location_table.extend(nst3_locations)
-region_table.update(nst3_regions)
-
-# Load Spyro 1 data
-spyro1_items = convert_to_list(ManualFile('data/spyro1/items.json', list).load(), 'data')
-spyro1_locations = convert_to_list(ManualFile('data/spyro1/locations.json', list).load(), 'data')
-spyro1_regions = ManualFile('data/spyro1/regions.json', dict).load()
-item_table.extend(spyro1_items)
-location_table.extend(spyro1_locations)
-region_table.update(spyro1_regions)
-
-# Load Spyro 2 data
-spyro2_items = convert_to_list(ManualFile('data/spyro2/items.json', list).load(), 'data')
-spyro2_locations = convert_to_list(ManualFile('data/spyro2/locations.json', list).load(), 'data')
-spyro2_regions = ManualFile('data/spyro2/regions.json', dict).load()
-item_table.extend(spyro2_items)
-location_table.extend(spyro2_locations)
-region_table.update(spyro2_regions)
-
-# Load Spyro 3 data
-spyro3_items = convert_to_list(ManualFile('data/spyro3/items.json', list).load(), 'data')
-spyro3_locations = convert_to_list(ManualFile('data/spyro3/locations.json', list).load(), 'data')
-spyro3_regions = ManualFile('data/spyro3/regions.json', dict).load()
-item_table.extend(spyro3_items)
-location_table.extend(spyro3_locations)
-region_table.update(spyro3_regions)
 
 # Removal of schemas in root of tables
 region_table.pop('$schema', '')

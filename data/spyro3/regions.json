@@ -1,32 +1,24 @@
-[
-    {
-        "Sunrise Spring": {
-            "connects_to": [
-                "Midday Gardens"
-            ],
-            "requires": []
-        }
+{
+    "Sunrise Spring": {
+        "connects_to": [
+            "Midday Gardens"
+        ],
+        "starting": true
     },
-    {
-        "Midday Gardens": {
-            "connects_to": [
-                "Evening Lake"
-            ],
-            "requires": "|Sheila| AND |Large Dragon Egg:14|"
-        }
+    "Midday Gardens": {
+        "connects_to": [
+            "Evening Lake"
+        ],
+        "requires": "|Sheila| AND |Large Dragon Egg:14|"
     },
-    {
-        "Evening Lake": {
-            "connects_to": [
-                "Midnight Mountain"
-            ],
-            "requires": "|Sheila| AND |Sgt. Byrd| AND |Large Dragon Egg:30|"
-        }
+    "Evening Lake": {
+        "connects_to": [
+            "Midnight Mountain"
+        ],
+        "requires": "|Sheila| AND |Sgt. Byrd| AND |Large Dragon Egg:30|"
     },
-    {
-        "Midnight Mountain": {
-            "connects_to": [],
-            "requires": "|Sheila| AND |Sgt. Byrd| AND |Bentley| AND |Large Dragon Egg:30|"
-        }
+    "Midnight Mountain": {
+        "connects_to": "",
+        "requires": "|Sheila| AND |Sgt. Byrd| AND |Bentley| AND |Large Dragon Egg:30|"
     }
-]
+}

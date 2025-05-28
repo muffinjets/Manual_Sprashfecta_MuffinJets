@@ -1,64 +1,38 @@
-[
-    {
-        "First Warp": {
-            "connects_to": [
-                "Second Warp"
-            ],
-            "requires": []
-        }
+{
+    "First Warp": {
+        "connects_to": [
+            "Second Warp"
+        ],
+        "starting": true
     },
-    {
-        "Second Warp": {
-            "connects_to": [
-                "Third Warp"
-            ],
-            "requires": [
-                "|Time Crystal:5|"
-            ]
-        }
+    "Second Warp": {
+        "connects_to": [
+            "Third Warp"
+        ],
+        "requires": "|Time Crystal:5|"
     },
-    {
-        "Third Warp": {
-            "connects_to": [
-                "Fourth Warp"
-            ],
-            "requires": [
-                "|Time Crystal:10|"
-            ]
-        }
+    "Third Warp": {
+        "connects_to": [
+            "Fourth Warp"
+        ],
+        "requires": "|Time Crystal:10|"
     },
-    {
-        "Fourth Warp": {
-            "connects_to": [
-                "Fifth Warp"
-            ],
-            "requires": [
-                "|Time Crystal:15|"
-            ]
-        }
+    "Fourth Warp": {
+        "connects_to": [
+            "Fifth Warp"
+        ],
+        "requires": "|Time Crystal:15|"
     },
-    {
-        "Fifth Warp": {
-            "connects_to": [],
-            "requires": [
-                "|Time Crystal:20|"
-            ]
-        }
+    "Fifth Warp": {
+        "connects_to": "",
+        "requires": "|Time Crystal:20|"
     },
-    {
-        "Secret Warp": {
-            "connects_to": [],
-            "requires": [
-                "|Time Relic:5| AND |Time Crystal:25|"
-            ]
-        }
+    "Secret Warp": {
+        "connects_to": "",
+        "requires": "|Time Relic:5| AND |Time Crystal:25|"
     },
-    {
-        "Time Trials": {
-            "connects_to": [],
-            "requires": [
-                "|Time Crystal:25|"
-            ]
-        }
+    "Time Trials": {
+        "connects_to": "",
+        "requires": "|Time Crystal:25|"
     }
-]
+}

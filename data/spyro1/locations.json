@@ -5,7 +5,7 @@
     "category": [
       "Spyro 1", "G - Artisans"
     ],
-    "requires": [],
+    "requires": "",
     "place_item": [
       "Stone Hill",
       "Town Square",
@@ -19,7 +19,7 @@
     "category": [
       "Spyro 1", "G - Artisans"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Artisans Home 100 Gems",
@@ -27,7 +27,7 @@
     "category": [
       "Spyro 1", "G - Artisans"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Artisans Home 1 Dragon",
@@ -35,7 +35,7 @@
     "category": [
       "Spyro 1", "G - Artisans"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Artisans Home 2 Dragons",
@@ -43,7 +43,7 @@
     "category": [
       "Spyro 1", "G - Artisans"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Artisans Home 3 Dragons",
@@ -51,7 +51,7 @@
     "category": [
       "Spyro 1", "G - Artisans"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Artisans Home 4 Dragons",
@@ -59,7 +59,7 @@
     "category": [
       "Spyro 1", "G - Artisans"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Stone Hill 100 Gems",
@@ -283,7 +283,7 @@
     "category": [
       "Spyro 1", "H - Peace Keepers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Peace Keepers Home 200 Gems",
@@ -291,7 +291,7 @@
     "category": [
       "Spyro 1", "H - Peace Keepers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Peace Keepers Home Dragon Egg",
@@ -299,7 +299,7 @@
     "category": [
       "Spyro 1", "H - Peace Keepers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Peace Keepers Home 1 Dragon",
@@ -307,7 +307,7 @@
     "category": [
       "Spyro 1", "H - Peace Keepers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Peace Keepers Home 2 Dragons",
@@ -315,7 +315,7 @@
     "category": [
       "Spyro 1", "H - Peace Keepers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Peace Keepers Home 3 Dragons",
@@ -323,7 +323,7 @@
     "category": [
       "Spyro 1", "H - Peace Keepers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Dry Canyon 200 Gems",
@@ -555,7 +555,7 @@
     "category": [
       "Spyro 1", "I - Magic Crafters"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Magic Crafters Home 300 Gems",
@@ -563,7 +563,7 @@
     "category": [
       "Spyro 1", "I - Magic Crafters"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Magic Crafters Home Dragon Egg 1",
@@ -571,7 +571,7 @@
     "category": [
       "Spyro 1", "I - Magic Crafters"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Magic Crafters Home Dragon Egg 2",
@@ -579,7 +579,7 @@
     "category": [
       "Spyro 1", "I - Magic Crafters"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Magic Crafters Home 1 Dragon",
@@ -587,7 +587,7 @@
     "category": [
       "Spyro 1", "I - Magic Crafters"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Magic Crafters Home 2 Dragons",
@@ -595,7 +595,7 @@
     "category": [
       "Spyro 1", "I - Magic Crafters"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Magic Crafters Home 3 Dragons",
@@ -603,7 +603,7 @@
     "category": [
       "Spyro 1", "I - Magic Crafters"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Alpine Ridge 250 Gems",
@@ -843,7 +843,7 @@
     "category": [
       "Spyro 1", "J - Beast Makers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Beast Makers Home 300 Gems",
@@ -851,7 +851,7 @@
     "category": [
       "Spyro 1", "J - Beast Makers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Beast Makers Home 1 Dragon",
@@ -859,7 +859,7 @@
     "category": [
       "Spyro 1", "J - Beast Makers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Beast Makers Home 2 Dragons",
@@ -867,7 +867,7 @@
     "category": [
       "Spyro 1", "J - Beast Makers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Terrace Village 200 Gems",
@@ -1059,7 +1059,7 @@
     "category": [
       "Spyro 1", "K - Dream Weavers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Dream Weavers Home 300 Gems",
@@ -1067,7 +1067,7 @@
     "category": [
       "Spyro 1", "K - Dream Weavers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Dream Weavers Home 1 Dragon",
@@ -1075,7 +1075,7 @@
     "category": [
       "Spyro 1", "K - Dream Weavers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Dream Weavers Home 2 Dragons",
@@ -1083,7 +1083,7 @@
     "category": [
       "Spyro 1", "K - Dream Weavers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Dream Weavers Home 3 Dragons",
@@ -1091,7 +1091,7 @@
     "category": [
       "Spyro 1", "K - Dream Weavers"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Dark Passage 250 Gems",
@@ -1307,7 +1307,7 @@
     "category": [
       "Spyro 1", "L - Gnasty's World"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Gnorc Gnexus 125 Gems",
@@ -1331,7 +1331,7 @@
     "category": [
       "Spyro 1", "L - Gnasty's World"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Gnorc Gnexus Second Dragon",

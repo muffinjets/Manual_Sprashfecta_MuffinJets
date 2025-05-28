@@ -62,5 +62,14 @@
           "Crash 3", "6 - Crash 3 Colored Gems"
         ],
         "progression": true
+      },
+      {
+        "count": 1,
+        "name": "Cortex Defeated across Time",
+        "category": [
+          "Crash 3",
+          "Victory Tokens"
+        ],
+        "progression": true
       }
 ]

@@ -1,11 +1,19 @@
 [
   {
+    "name": "Glimmer Talisman",
+    "region": "Glimmer",
+    "category": [
+      "Spyro 2", "M - Summer Forest"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Glimmer Lizard Hunt",
     "region": "Glimmer",
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Glimmer Gem Lamps Outdoors",
@@ -13,11 +21,11 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Glimmer Gem Lamps In Cave",
-    "region": "Glimmer",
+    "region": "Summer Forest Post-Swim",
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
@@ -25,7 +33,7 @@
   },
   {
     "name": "Glimmer 400 Gems",
-    "region": "Glimmer",
+    "region": "Summer Forest Post-Swim",
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
@@ -37,7 +45,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Summer Forest On a Secret Ledge",
@@ -45,7 +53,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Summer Forest Atop a Ladder",
@@ -61,7 +69,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Summer Forest 400 Gems",
@@ -77,7 +85,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Idol Springs Foreman Bud's Challenges",
@@ -93,15 +101,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
-  },
-  {
-    "name": "Idol Springs Land on Idol Skill Point",
-    "region": "Summer Forest",
-    "category": [
-      "Spyro 2", "M - Summer Forest"
-    ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Idol Springs 400 Gems",
@@ -117,7 +117,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Colossus Hockey vs. Goalie",
@@ -125,7 +125,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Colossus Hockey One on One",
@@ -133,7 +133,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Colossus Spirit Search",
@@ -141,15 +141,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
-  },
-  {
-    "name": "Colossus Perfect Score Skill Point",
-    "region": "Summer Forest",
-    "category": [
-      "Spyro 2", "M - Summer Forest"
-    ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Colossus 400 Gems",
@@ -157,7 +149,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Hurricos Talisman",
@@ -165,7 +157,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Hurricos Stone Thief Chase",
@@ -173,7 +165,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Hurricos Factory Glide 1",
@@ -181,7 +173,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Hurricos Factory Glide 2",
@@ -189,15 +181,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
-  },
-  {
-    "name": "Hurricos Windmills Skill Point",
-    "region": "Summer Forest Post-Swim",
-    "category": [
-      "Spyro 2", "M - Summer Forest"
-    ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Hurricos 400 Gems",
@@ -205,7 +189,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Sunny Beach Talisman",
@@ -213,7 +197,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Sunny Beach Blasting Boxes",
@@ -253,7 +237,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Aquaria Towers Seahorse Rescue",
@@ -261,7 +245,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Aquaria Towers Manta Ride I",
@@ -269,7 +253,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Aquaria Towers Manta Ride II",
@@ -277,15 +261,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
-  },
-  {
-    "name": "Aquaria Towers Seaweed Skill Point",
-    "region": "Summer Forest Post-Swim",
-    "category": [
-      "Spyro 2", "M - Summer Forest"
-    ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Aquaria Towers 400 Gems",
@@ -293,7 +269,7 @@
     "category": [
       "Spyro 2", "M - Summer Forest"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Ocean Speedway All in One",
@@ -312,23 +288,7 @@
     "requires": "|Orb:3|"
   },
   {
-    "name": "Ocean Speedway 1:10 Skill Point",
-    "region": "Summer Forest Post-Swim",
-    "category": [
-      "Spyro 2", "M - Summer Forest"
-    ],
-    "requires": "|Orb:3|"
-  },
-  {
     "name": "Crush's Dungeon",
-    "region": "Summer Forest Post-Swim",
-    "category": [
-      "Spyro 2", "M - Summer Forest"
-    ],
-    "requires": "|Talisman:6|"
-  },
-  {
-    "name": "Crush Damageless Skill Point",
     "region": "Summer Forest Post-Swim",
     "category": [
       "Spyro 2", "M - Summer Forest"
@@ -341,7 +301,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Autumn Plains Long Glide!",
@@ -349,7 +309,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Autumn Plains 400 Gems",
@@ -357,7 +317,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Skelos Badlands Talisman",
@@ -365,7 +325,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Skelos Badlands Lava Lizards I",
@@ -373,7 +333,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Skelos Badlands Lava Lizards II",
@@ -381,7 +341,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Skelos Badlands Dem Bones",
@@ -389,15 +349,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
-  },
-  {
-    "name": "Skelos Badlands Catabat Quartet Skill Points",
-    "region": "Autumn Plains",
-    "category": [
-      "Spyro 2", "N - Autumn Plains"
-    ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Skelos Badlands 400 Gems",
@@ -405,7 +357,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Crystal Glacier Talisman",
@@ -413,7 +365,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Crystal Glacier Draclet Cave",
@@ -421,7 +373,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Crystal Glacier George the Snow Leopard",
@@ -429,7 +381,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Crystal Glacier 400 Gems",
@@ -437,7 +389,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Breeze Harbor Talisman",
@@ -445,7 +397,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Breeze Harbor Mine Blast",
@@ -453,7 +405,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Breeze Harbor Gear Grab",
@@ -461,7 +413,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Breeze Harbor 400 Gems",
@@ -469,7 +421,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Zephyr Talisman",
@@ -477,7 +429,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Zephyr Cowlek Corral I",
@@ -485,7 +437,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Zephyr Cowlek Corral II",
@@ -501,7 +453,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Zephyr Sowing Seeds II",
@@ -509,7 +461,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Zephyr 400 Gems",
@@ -525,7 +477,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Scorch Barrel of Monkeys",
@@ -533,7 +485,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Scorch Capture the Flags",
@@ -541,7 +493,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Scorch 400 Gems",
@@ -549,7 +501,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Fracture Hills Talisman",
@@ -557,7 +509,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Fracture Hills Free the Faun",
@@ -565,7 +517,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Fracture Hills Alchemist Escort",
@@ -584,20 +536,12 @@
     "requires": "|Headbash| AND |Talisman:14|"
   },
   {
-    "name": "Fracture Hills Supercharge 3 Laps Skill Point",
-    "region": "Autumn Plains Post-Climb",
-    "category": [
-      "Spyro 2", "N - Autumn Plains"
-    ],
-    "requires": []
-  },
-  {
     "name": "Fracture Hills 400 Gems",
     "region": "Autumn Plains Post-Climb",
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Magma Cone Talisman",
@@ -605,7 +549,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": "|Orb:8| AND |Magma Cone Elevator|"
+    "requires": "|Orb:8|"
   },
   {
     "name": "Magma Cone Party Crashers",
@@ -613,7 +557,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": "|Orb:8| AND |Magma Cone Elevator|"
+    "requires": "|Orb:8|"
   },
   {
     "name": "Magma Cone Crystal Geysers I",
@@ -637,7 +581,7 @@
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": "|Orb:8| AND |Magma Cone Elevator|"
+    "requires": "|Orb:8|"
   },
   {
     "name": "Shady Oasis Talisman",
@@ -688,14 +632,6 @@
     "requires": "|Orb:6|"
   },
   {
-    "name": "Metro Speedway 1:15 Skill Point",
-    "region": "Autumn Plains Post-Climb",
-    "category": [
-      "Spyro 2", "N - Autumn Plains"
-    ],
-    "requires": []
-  },
-  {
     "name": "Icy Speedway All in One",
     "region": "Autumn Plains Post-Climb",
     "category": [
@@ -712,36 +648,12 @@
     "requires": "|Orb:8|"
   },
   {
-    "name": "Icy Speedway Under 1:15 Skill Point",
-    "region": "Autumn Plains Post-Climb",
-    "category": [
-      "Spyro 2", "N - Autumn Plains"
-    ],
-    "requires": "|Orb:8|"
-  },
-  {
     "name": "Gulp's Overlook",
     "region": "Winter Tundra",
     "category": [
       "Spyro 2", "N - Autumn Plains"
     ],
-    "requires": []
-  },
-  {
-    "name": "Gulp Damageless Skill Point",
-    "region": "Winter Tundra",
-    "category": [
-      "Spyro 2", "N - Autumn Plains"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Gulp Hit Ripto First Skill Point",
-    "region": "Winter Tundra",
-    "category": [
-      "Spyro 2", "N - Autumn Plains"
-    ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Winter Tundra Top of the Waterfall",
@@ -749,7 +661,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Winter Tundra On the Tall Wall",
@@ -757,7 +669,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Winter Tundra Smash the Rock",
@@ -765,7 +677,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Winter Tundra 400 Gems",
@@ -773,7 +685,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Mystic Marsh Fix the Fountain",
@@ -781,7 +693,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Mystic Marsh Very Versatile Thieves!",
@@ -789,7 +701,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Mystic Marsh Retrieve Professor's Pencil",
@@ -797,7 +709,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Mystic Marsh 400 Gems",
@@ -805,7 +717,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Cloud Temples Break Down Doors",
@@ -845,7 +757,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Robotica Farms Clear Tractor Path",
@@ -853,7 +765,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Robotica Farms Exterminate Crow Bugs",
@@ -861,7 +773,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Robotica Farms 400 Gems",
@@ -869,7 +781,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Metropolis Conquer Invading Cows",
@@ -917,7 +829,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Canyon Speedway Shoot Down Balloons",
@@ -925,15 +837,7 @@
     "category": [
       "Spyro 2", "O - Winter Tundra"
     ],
-    "requires": []
-  },
-  {
-    "name": "Canyon Speedway 1:10 Skill Point",
-    "region": "Winter Tundra Post-Rock",
-    "category": [
-      "Spyro 2", "O - Winter Tundra"
-    ],
-    "requires": []
+    "requires": ""
   },
   {
     "name": "Ripto's Arena",
@@ -943,14 +847,6 @@
     ],
     "requires": "|Orb:40|",
     "place_item": ["Ripto Defeated"]
-  },
-  {
-    "name": "Ripto Damageless",
-    "region": "Winter Tundra Post-Rock",
-    "category": [
-      "Spyro 2", "O - Winter Tundra"
-    ],
-    "requires": "|Orb:40|"
   },
   {
     "name": "Dragon Shores Permanent Superflame Gate",

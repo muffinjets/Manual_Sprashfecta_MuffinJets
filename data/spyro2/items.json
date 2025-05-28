@@ -43,5 +43,14 @@
         "A - Spyro 2 Items"
       ],
       "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ripto Defeated",
+      "category": [
+        "Spyro 2",
+        "Victory Tokens"
+      ],
+      "progression": true
     }
 ]

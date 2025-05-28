@@ -1,48 +1,30 @@
-[
-    {
-        "First Floor": {
-            "connects_to": [
-                "Second Floor"
-            ],
-            "requires": []
-        }
+{
+    "First Floor": {
+        "connects_to": [
+            "Second Floor"
+        ],
+        "starting": true
     },
-    {
-        "Second Floor": {
-            "connects_to": [
-                "Third Floor"
-            ],
-            "requires": [
-                "|Striking Crystal:5|"
-            ]
-        }
+    "Second Floor": {
+        "connects_to": [
+            "Third Floor"
+        ],
+        "requires": "|Striking Crystal:5|"
     },
-    {
-        "Third Floor": {
-            "connects_to": [
-                "Fourth Floor"
-            ],
-            "requires": [
-                "|Striking Crystal:10|"
-            ]
-        }
+    "Third Floor": {
+        "connects_to": [
+            "Fourth Floor"
+        ],
+        "requires": "|Striking Crystal:10|"
     },
-    {
-        "Fourth Floor": {
-            "connects_to": [
-                "Fifth Floor"
-            ],
-            "requires": [
-                "|Striking Crystal:15|"
-            ]
-        }
+    "Fourth Floor": {
+        "connects_to": [
+            "Fifth Floor"
+        ],
+        "requires": "|Striking Crystal:15|"
     },
-    {
-        "Fifth Floor": {
-            "connects_to": [],
-            "requires": [
-                "|Striking Crystal:20|"
-            ]
-        }
+    "Fifth Floor": {
+        "connects_to": "",
+        "requires": "|Striking Crystal:20|"
     }
-]
+}
