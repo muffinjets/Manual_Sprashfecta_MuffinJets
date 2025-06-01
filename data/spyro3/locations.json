@@ -344,6 +344,38 @@
     "requires": "|Large Dragon Egg:20|"
   },
   {
+    "name": "Sheila's Alp Help Bobby get home",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
+    "name": "Sheila's Alp Help Pete get home",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
+    "name": "Sheila's Alp Help Billy get home",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
+    "name": "Sheila's Alp 400 Gems",
+    "region": "Sunrise Spring",
+    "category": [
+      "Spyro 3", "P - Sunrise Spring"
+    ],
+    "requires": "|Sheila|"
+  },
+  {
     "name": "Buzz' Dungeon",
     "region": "Sunrise Spring",
     "category": [
