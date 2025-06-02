@@ -60,57 +60,56 @@ Manual_Sprashfecta_MuffinJets:
     full: 50
     minimal: 0
 
-  death_link:
-    # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
-    'false': 50
-    'true': 0
-
-  Crash_1:
+  crash1:
     # Enable this setting to include Crash Bandicoot items and locations.
     # This implementation is compatible with the N. Sane Trilogy, but none of the content from the remake is considered unless you enable the NST Content option below.
     'false': 50
     'true': 0
 
-  Crash_2:
+  crash2:
     # Enable this setting to include Crash Bandicoot 2: Cortex Strikes Back items and locations.
     # This implementation is compatible with the N. Sane Trilogy, but none of the content from the remake is considered unless you enable the NST Content option below.
     'false': 50
     'true': 0
 
-  Crash_3:
+  crash3:
     # Enable this setting to include Crash Bandicoot: Warped items and locations.
     # This implementation is compatible with the N. Sane Trilogy, but none of the content from the remake is considered unless you enable the NST Content option below.
     'false': 50
     'true': 0
 
-  Crash_NST_Content:
+  crashnstcontent:
     # Enable this setting to include the content added from the N. Sane Trilogy in all selected Crash games.
-    # 
-    # - Crash 1: Time Trials, Stormy Ascent
-    # - Crash 2: Time Trials
-    # - Crash 3: Future Tense
     'false': 50
     'true': 0
 
-  Spyro_1:
+  spyro1:
     # Enable this setting to include Spyro the Dragon items and locations.
+    #  - PS1: This option is only compatible with the PS1 version of Spyro the Dragon.  
+    #         Levels are unlocked via items of the same name.  Hub worlds are unlocked explicitly.  
+    #         Requires the use of the in-game cheat code that doesn't exist in the Reignited Trilogy.
     # 
-    # This implementation explicitly is NOT compatible with the Spyro: Reignited Trilogy version of Spyro 1, unless you use a save file editor to give you access to each of the hub worlds from the beginnning.
-    # If you have a simple, easily repeatable, method of doing this that could be simply explained to a non-technical user, message muffinjets on Discord.
-    'false': 50
-    'true': 0
+    #  - SRT: Intended to be played in the Reignited Trilogy version of Spyro the Dragon.
+    #         Hub worlds are unlocked via an incrementally larger amount of "Progressive Homeworld" items.
+    #         This option can be used on the PS1 version if you prefer this playstyle.
+    ps1: 0
+    srt: 0
+    false: 50
 
-  Spyro_2:
-    # Enable this setting to include Spyro 2: Ripto's Rage items and locations.
-    # 
+  spyro2:
+    # Enable this setting to include Spyro 2: Ripto's Rage!/Gateway to Glimmer items and locations.
     # This implementation is compatible with the Spyro: Reignited Trilogy version of Spyro 2.
     'false': 50
     'true': 0
 
-  Spyro_3:
+  spyro3:
     # Enable this setting to include Spyro: Year of the Dragon items and locations.
-    # 
-    #This implementation is compatible with the Spyro: Reignited Trilogy version of Spyro 3.
+    # This implementation is compatible with the Spyro: Reignited Trilogy version of Spyro 3.
+    'false': 50
+    'true': 0
+
+  death_link:
+    # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
     'true': 0
 

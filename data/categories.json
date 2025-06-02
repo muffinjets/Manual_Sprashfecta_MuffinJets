@@ -1,37 +1,26 @@
 {
     "Crash 1": {
-        "yaml_option": ["Crash_1"],
-        "hidden": true,
-        "doc": "Enable this setting to include Crash Bandicoot items and locations.\n# This implementation is compatible with the N. Sane Trilogy, but none of the content from the remake is considered unless you enable the NST Content option below."
+        "hidden": true
     },
     "Crash 2": {
-        "yaml_option": ["Crash_2"],
-        "hidden": true,
-        "doc": "Enable this setting to include Crash Bandicoot 2: Cortex Strikes Back items and locations.\n# This implementation is compatible with the N. Sane Trilogy, but none of the content from the remake is considered unless you enable the NST Content option below."
+        "hidden": true
     },
     "Crash 3": {
-        "yaml_option": ["Crash_3"],
-        "hidden": true,
-        "doc": "Enable this setting to include Crash Bandicoot: Warped items and locations.\n# This implementation is compatible with the N. Sane Trilogy, but none of the content from the remake is considered unless you enable the NST Content option below."
+        "hidden": true
     },
     "Crash NST Content": {
-        "yaml_option": ["Crash_NST_Content"],
-        "hidden": true,
-        "doc": "Enable this setting to include the content added from the N. Sane Trilogy in all selected Crash games.\n\n# - Crash 1: Time Trials, Stormy Ascent\n# - Crash 2: Time Trials\n# - Crash 3: Future Tense"
+        "hidden": true
     },
     "Spyro 1": {
-        "yaml_option": ["Spyro_1"],
-        "hidden": true,
-        "doc": "Enable this setting to include Spyro the Dragon items and locations.\n\n# This implementation explicitly is NOT compatible with the Spyro: Reignited Trilogy version of Spyro 1, unless you use a save file editor to give you access to each of the hub worlds from the beginnning.\n# If you have a simple, easily repeatable, method of doing this that could be simply explained to a non-technical user, message muffinjets on Discord."
+        "hidden": true
+    },
+    "SRT 1": {
+        "hidden": true
     },
     "Spyro 2": {
-        "yaml_option": ["Spyro_2"],
-        "hidden": true,
-        "doc": "Enable this setting to include Spyro 2: Ripto's Rage items and locations.\n\n# This implementation is compatible with the Spyro: Reignited Trilogy version of Spyro 2."
+        "hidden": true
     },
     "Spyro 3": {
-        "yaml_option": ["Spyro_3"],
-        "hidden": true,
-        "doc": "Enable this setting to include Spyro: Year of the Dragon items and locations.\n\n#This implementation is compatible with the Spyro: Reignited Trilogy version of Spyro 3."
+        "hidden": true
     }
 }

@@ -1,29 +1,23 @@
 {
     "Artisans Homeworld": {
-        "connects_to": [
-            "Peace Keepers Homeworld",
-            "Magic Crafters Homeworld",
-            "Beast Makers Homeworld",
-            "Dream Weavers Homeworld",
-            "Gnasty's World"
-        ],
+        "connects_to": ["Peace Keepers Homeworld"],
         "starting": true
     },
     "Peace Keepers Homeworld": {
-        "connects_to": "",
-        "requires": "|Peace Keepers Homeworld|"
+        "connects_to": ["Magic Crafters Homeworld"],
+        "requires": "|Progressive Homeworld:1|"
     },
     "Magic Crafters Homeworld": {
-        "connects_to": "",
-        "requires": "|Magic Crafters Homeworld|"
+        "connects_to": ["Beast Makers Homeworld"],
+        "requires": "|Progressive Homeworld:2|"
     },
     "Beast Makers Homeworld": {
-        "connects_to": "",
-        "requires": "|Beast Makers Homeworld|"
+        "connects_to": ["Dream Weavers Homeworld"],
+        "requires": "|Progressive Homeworld:3|"
     },
     "Dream Weavers Homeworld": {
-        "connects_to": "",
-        "requires": "|Dream Weavers Homeworld|"
+        "connects_to": ["Gnasty's World"],
+        "requires": "|Progressive Homeworld:4|"
     },
     "Gnasty's World": {
         "connects_to": "",

@@ -1,3 +1,3 @@
-UT isn't appearing for all games selected (NST-S1-S2-S3, maybe NST is issue?)
-Item headers appearing for non-selected games
- - Item pool is unaffected; cosmetic issue
+Test new settings
+
+Test combinations

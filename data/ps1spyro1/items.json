@@ -1,0 +1,371 @@
+[
+  {
+    "count": 1,
+    "name": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1",
+      "7 - Spyro 1 Homeworlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1",
+      "7 - Spyro 1 Homeworlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1",
+      "7 - Spyro 1 Homeworlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1",
+      "7 - Spyro 1 Homeworlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toasty's Stilts",
+    "category": [
+      "Spyro 1",
+      "8 - Spyro 1 Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shemp's Staff",
+    "category": [
+      "Spyro 1",
+      "8 - Spyro 1 Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blowhard's Beard",
+    "category": [
+      "Spyro 1",
+      "8 - Spyro 1 Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Metalhead's Mohawk",
+    "category": [
+      "Spyro 1",
+      "8 - Spyro 1 Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jacques' Ribbon",
+    "category": [
+      "Spyro 1",
+      "8 - Spyro 1 Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 12,
+    "name": "Speckled Dragon Egg",
+    "category": [
+      "Spyro 1",
+      "8 - Spyro 1 Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 80,
+    "name": "Crystallized Dragon",
+    "category": [
+      "Spyro 1",
+      "8 - Spyro 1 Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Hill",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Hollow",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Town Square",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sunny Flight",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toasty",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dry Canyon",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cliff Town",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Cavern",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Night Flight",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doctor Shemp",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alpine Ridge",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "High Caves",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wizard Peak",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crystal Flight",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blowhard",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Terrace Village",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Misty Bog",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tree Tops",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wild Flight",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Metalhead",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Passage",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lofty Castle",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Haunted Towers",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Icy Flight",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jacques",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gnorc Cove",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Twilight Harbor",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gnasty Gnorc",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gnasty's Loot",
+    "category": [
+      "Spyro 1",
+      "9 - Spyro 1 Levels"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gnasty Defeated",
+    "category": [
+      "Spyro 1",
+      "Victory Tokens"
+    ],
+    "progression": true
+  }
+]

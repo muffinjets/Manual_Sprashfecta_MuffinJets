@@ -1,0 +1,1449 @@
+[
+  {
+    "name": "Input [ ], [ ], ( ), [ ], <, >, <, >, ( ), ^, >, v on Inventory",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "",
+    "place_item": [
+      "Stone Hill",
+      "Town Square",
+      "Dark Hollow",
+      "Sunny Flight"
+    ]
+  },
+  {
+    "name": "Artisans Home 50 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Artisans Home 100 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Artisans Home 1 Dragon",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Artisans Home 2 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Artisans Home 3 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Artisans Home 4 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stone Hill 100 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Stone Hill|"
+  },
+  {
+    "name": "Stone Hill 200 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Stone Hill|"
+  },
+  {
+    "name": "Stone Hill Dragon Egg",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Stone Hill|"
+  },
+  {
+    "name": "Stone Hill 1 Dragon",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Stone Hill|"
+  },
+  {
+    "name": "Stone Hill 2 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Stone Hill|"
+  },
+  {
+    "name": "Stone Hill 3 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Stone Hill|"
+  },
+  {
+    "name": "Stone Hill 4 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Stone Hill|"
+  },
+  {
+    "name": "Stone Hill Golden Vortex",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Stone Hill|"
+  },
+  {
+    "name": "Dark Hollow 50 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Dark Hollow|"
+  },
+  {
+    "name": "Dark Hollow 100 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Dark Hollow|"
+  },
+  {
+    "name": "Dark Hollow 1 Dragon",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Dark Hollow|"
+  },
+  {
+    "name": "Dark Hollow 2 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Dark Hollow|"
+  },
+  {
+    "name": "Dark Hollow 3 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Dark Hollow|"
+  },
+  {
+    "name": "Dark Hollow Golden Vortex",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Dark Hollow|"
+  },
+  {
+    "name": "Town Square 100 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Town Square|"
+  },
+  {
+    "name": "Town Square 200 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Town Square|"
+  },
+  {
+    "name": "Town Square Dragon Egg",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Town Square|"
+  },
+  {
+    "name": "Town Square 1 Dragon",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Town Square|"
+  },
+  {
+    "name": "Town Square 2 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Town Square|"
+  },
+  {
+    "name": "Town Square 3 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Town Square|"
+  },
+  {
+    "name": "Town Square 4 Dragons",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Town Square|"
+  },
+  {
+    "name": "Town Square Golden Vortex",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Town Square|"
+  },
+  {
+    "name": "Toasty 50 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Toasty| AND (|Stone Hill| OR |Dark Hollow| OR |Town Square|)"
+  },
+  {
+    "name": "Toasty 100 Gems",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Toasty| AND (|Stone Hill| OR |Dark Hollow| OR |Town Square|)"
+  },
+  {
+    "name": "Toasty Dragon",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Toasty| AND (|Stone Hill| OR |Dark Hollow| OR |Town Square|)"
+  },
+  {
+    "name": "Toasty Golden Vortex",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Toasty| AND (|Stone Hill| OR |Dark Hollow| OR |Town Square|)"
+  },
+  {
+    "name": "Sunny Flight All in One",
+    "region": "Artisans Homeworld",
+    "category": [
+      "Spyro 1", "G - Artisans"
+    ],
+    "requires": "|Sunny Flight|"
+  },
+  {
+    "name": "Peace Keepers Home 100 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Peace Keepers Home 200 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Peace Keepers Home Dragon Egg",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Peace Keepers Home 1 Dragon",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Peace Keepers Home 2 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Peace Keepers Home 3 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dry Canyon 200 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Dry Canyon|"
+  },
+  {
+    "name": "Dry Canyon 400 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Dry Canyon|"
+  },
+  {
+    "name": "Dry Canyon Dragon Egg",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Dry Canyon|"
+  },
+  {
+    "name": "Dry Canyon 1 Dragon",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Dry Canyon|"
+  },
+  {
+    "name": "Dry Canyon 2 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Dry Canyon|"
+  },
+  {
+    "name": "Dry Canyon 3 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Dry Canyon|"
+  },
+  {
+    "name": "Dry Canyon 4 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Dry Canyon|"
+  },
+  {
+    "name": "Dry Canyon Golden Vortex",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Dry Canyon|"
+  },
+  {
+    "name": "Cliff Town 200 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Cliff Town|"
+  },
+  {
+    "name": "Cliff Town 400 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Cliff Town|"
+  },
+  {
+    "name": "Cliff Town Dragon Egg",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Cliff Town|"
+  },
+  {
+    "name": "Cliff Town 1 Dragon",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Cliff Town|"
+  },
+  {
+    "name": "Cliff Town 2 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Cliff Town|"
+  },
+  {
+    "name": "Cliff Town 3 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Cliff Town|"
+  },
+  {
+    "name": "Cliff Town Golden Vortex",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Cliff Town|"
+  },
+  {
+    "name": "Ice Cavern 200 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Ice Cavern|"
+  },
+  {
+    "name": "Ice Cavern 400 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Ice Cavern|"
+  },
+  {
+    "name": "Ice Cavern 1 Dragon",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Ice Cavern|"
+  },
+  {
+    "name": "Ice Cavern 2 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Ice Cavern|"
+  },
+  {
+    "name": "Ice Cavern 3 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Ice Cavern|"
+  },
+  {
+    "name": "Ice Cavern 4 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Ice Cavern|"
+  },
+  {
+    "name": "Ice Cavern 5 Dragons",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Ice Cavern|"
+  },
+  {
+    "name": "Ice Cavern Golden Vortex",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Ice Cavern|"
+  },
+  {
+    "name": "Doctor Shemp 150 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Doctor Shemp|"
+  },
+  {
+    "name": "Doctor Shemp 300 Gems",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Doctor Shemp|"
+  },
+  {
+    "name": "Doctor Shemp Dragon",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Doctor Shemp|"
+  },
+  {
+    "name": "Doctor Shemp Golden Vortex",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Doctor Shemp|"
+  },
+  {
+    "name": "Night Flight All in One",
+    "region": "Peace Keepers Homeworld",
+    "category": [
+      "Spyro 1", "H - Peace Keepers"
+    ],
+    "requires": "|Night Flight|"
+  },
+  {
+    "name": "Magic Crafters Home 150 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Magic Crafters Home 300 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Magic Crafters Home Dragon Egg 1",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Magic Crafters Home Dragon Egg 2",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Magic Crafters Home 1 Dragon",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Magic Crafters Home 2 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Magic Crafters Home 3 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alpine Ridge 250 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Alpine Ridge|"
+  },
+  {
+    "name": "Alpine Ridge 500 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Alpine Ridge|"
+  },
+  {
+    "name": "Alpine Ridge Dragon Egg",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Alpine Ridge|"
+  },
+  {
+    "name": "Alpine Ridge 1 Dragon",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Alpine Ridge|"
+  },
+  {
+    "name": "Alpine Ridge 2 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Alpine Ridge|"
+  },
+  {
+    "name": "Alpine Ridge 3 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Alpine Ridge|"
+  },
+  {
+    "name": "Alpine Ridge 4 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Alpine Ridge|"
+  },
+  {
+    "name": "Alpine Ridge Golden Vortex",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Alpine Ridge|"
+  },
+  {
+    "name": "High Caves 250 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|High Caves|"
+  },
+  {
+    "name": "High Caves 500 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|High Caves|"
+  },
+  {
+    "name": "High Caves Dragon Egg 1",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|High Caves|"
+  },
+  {
+    "name": "High Caves Dragon Egg 2",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|High Caves|"
+  },
+  {
+    "name": "High Caves 1 Dragon",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|High Caves|"
+  },
+  {
+    "name": "High Caves 2 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|High Caves|"
+  },
+  {
+    "name": "High Caves 3 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|High Caves|"
+  },
+  {
+    "name": "High Caves Golden Vortex",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|High Caves|"
+  },
+  {
+    "name": "Wizard Peak 250 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Wizard Peak|"
+  },
+  {
+    "name": "Wizard Peak 500 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Wizard Peak|"
+  },
+  {
+    "name": "Wizard Peak Dragon Egg 1",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Wizard Peak|"
+  },
+  {
+    "name": "Wizard Peak Dragon Egg 2",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Wizard Peak|"
+  },
+  {
+    "name": "Wizard Peak 1 Dragon",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Wizard Peak|"
+  },
+  {
+    "name": "Wizard Peak 2 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Wizard Peak|"
+  },
+  {
+    "name": "Wizard Peak 3 Dragons",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Wizard Peak|"
+  },
+  {
+    "name": "Wizard Peak Golden Vortex",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Wizard Peak|"
+  },
+  {
+    "name": "Blowhard 200 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Blowhard|"
+  },
+  {
+    "name": "Blowhard 400 Gems",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Blowhard|"
+  },
+  {
+    "name": "Blowhard Dragon",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Blowhard|"
+  },
+  {
+    "name": "Blowhard Golden Vortex",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Blowhard|"
+  },
+  {
+    "name": "Crystal Flight All in One",
+    "region": "Magic Crafters Homeworld",
+    "category": [
+      "Spyro 1", "I - Magic Crafters"
+    ],
+    "requires": "|Crystal Flight|"
+  },
+  {
+    "name": "Beast Makers Home 150 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Beast Makers Home 300 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Beast Makers Home 1 Dragon",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Beast Makers Home 2 Dragons",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Terrace Village 200 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Terrace Village|"
+  },
+  {
+    "name": "Terrace Village 400 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Terrace Village|"
+  },
+  {
+    "name": "Terrace Village 1 Dragon",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Terrace Village|"
+  },
+  {
+    "name": "Terrace Village 2 Dragons",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Terrace Village|"
+  },
+  {
+    "name": "Terrace Village Golden Vortex",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Terrace Village|"
+  },
+  {
+    "name": "Misty Bog 250 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Misty Bog|"
+  },
+  {
+    "name": "Misty Bog 500 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Misty Bog|"
+  },
+  {
+    "name": "Misty Bog 1 Dragon",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Misty Bog|"
+  },
+  {
+    "name": "Misty Bog 2 Dragons",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Misty Bog|"
+  },
+  {
+    "name": "Misty Bog 3 Dragons",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Misty Bog|"
+  },
+  {
+    "name": "Misty Bog 4 Dragons",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Misty Bog|"
+  },
+  {
+    "name": "Misty Bog Golden Vortex",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Misty Bog|"
+  },
+  {
+    "name": "Tree Tops 250 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Tree Tops|"
+  },
+  {
+    "name": "Tree Tops 500 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Tree Tops|"
+  },
+  {
+    "name": "Tree Tops 1 Dragon",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Tree Tops|"
+  },
+  {
+    "name": "Tree Tops 2 Dragons",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Tree Tops|"
+  },
+  {
+    "name": "Tree Tops 3 Dragons",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Tree Tops|"
+  },
+  {
+    "name": "Tree Tops Golden Vortex",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Tree Tops|"
+  },
+  {
+    "name": "Metalhead 250 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Metalhead|"
+  },
+  {
+    "name": "Metalhead 500 Gems",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Metalhead|"
+  },
+  {
+    "name": "Metalhead Dragon",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Metalhead|"
+  },
+  {
+    "name": "Metalhead Golden Vortex",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Metalhead|"
+  },
+  {
+    "name": "Wild Flight All in One",
+    "region": "Beast Makers Homeworld",
+    "category": [
+      "Spyro 1", "J - Beast Makers"
+    ],
+    "requires": "|Wild Flight|"
+  },
+  {
+    "name": "Dream Weavers Home 150 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dream Weavers Home 300 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dream Weavers Home 1 Dragon",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dream Weavers Home 2 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dream Weavers Home 3 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dark Passage 250 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Dark Passage|"
+  },
+  {
+    "name": "Dark Passage 500 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Dark Passage|"
+  },
+  {
+    "name": "Dark Passage 1 Dragon",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Dark Passage|"
+  },
+  {
+    "name": "Dark Passage 2 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Dark Passage|"
+  },
+  {
+    "name": "Dark Passage 3 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Dark Passage|"
+  },
+  {
+    "name": "Dark Passage 4 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Dark Passage|"
+  },
+  {
+    "name": "Dark Passage 5 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Dark Passage|"
+  },
+  {
+    "name": "Dark Passage Golden Vortex",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Dark Passage|"
+  },
+  {
+    "name": "Lofty Castle 200 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Lofty Castle|"
+  },
+  {
+    "name": "Lofty Castle 400 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Lofty Castle|"
+  },
+  {
+    "name": "Lofty Castle 1 Dragon",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Lofty Castle|"
+  },
+  {
+    "name": "Lofty Castle 2 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Lofty Castle|"
+  },
+  {
+    "name": "Lofty Castle 3 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Lofty Castle|"
+  },
+  {
+    "name": "Lofty Castle Golden Vortex",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Lofty Castle|"
+  },
+  {
+    "name": "Haunted Towers 250 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Haunted Towers|"
+  },
+  {
+    "name": "Haunted Towers 500 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Haunted Towers|"
+  },
+  {
+    "name": "Haunted Towers 1 Dragon",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Haunted Towers|"
+  },
+  {
+    "name": "Haunted Towers 2 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Haunted Towers|"
+  },
+  {
+    "name": "Haunted Towers 3 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Haunted Towers|"
+  },
+  {
+    "name": "Haunted Towers Golden Vortex",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Haunted Towers|"
+  },
+  {
+    "name": "Jacques 250 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Jacques|"
+  },
+  {
+    "name": "Jacques 500 Gems",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Jacques|"
+  },
+  {
+    "name": "Jacques 1 Dragon",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Jacques|"
+  },
+  {
+    "name": "Jacques 2 Dragons",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Jacques|"
+  },
+  {
+    "name": "Jacques Golden Vortex",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Jacques|"
+  },
+  {
+    "name": "Icy Flight All in One",
+    "region": "Dream Weavers Homeworld",
+    "category": [
+      "Spyro 1", "K - Dream Weavers"
+    ],
+    "requires": "|Icy Flight|"
+  },
+  {
+    "name": "Gnorc Gnexus 75 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gnorc Gnexus 125 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove|"
+  },
+  {
+    "name": "Gnorc Gnexus 200 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove| AND |Twilight Harbor|"
+  },
+  {
+    "name": "Gnorc Gnexus First Dragon",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gnorc Gnexus Second Dragon",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove| AND |Twilight Harbor| AND |Gnasty Gnorc|"
+  },
+  {
+    "name": "Gnorc Cove 200 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove|"
+  },
+  {
+    "name": "Gnorc Cove 400 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove|"
+  },
+  {
+    "name": "Gnorc Cove 1 Dragon",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove|"
+  },
+  {
+    "name": "Gnorc Cove 2 Dragons",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove|"
+  },
+  {
+    "name": "Gnorc Cove Golden Vortex",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove|"
+  },
+  {
+    "name": "Twilight Harbor 200 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove| AND |Twilight Harbor|"
+  },
+  {
+    "name": "Twilight Harbor 400 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove| AND |Twilight Harbor|"
+  },
+  {
+    "name": "Twilight Harbor 1 Dragon",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove| AND |Twilight Harbor|"
+  },
+  {
+    "name": "Twilight Harbor 2 Dragons",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove| AND |Twilight Harbor|"
+  },
+  {
+    "name": "Twilight Harbor Golden Vortex",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Twilight Harbor|"
+  },
+  {
+    "name": "Gnasty Gnorc 500 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Gnorc Cove| AND |Twilight Harbor| AND |Gnasty Gnorc|",
+    "place_item": ["Gnasty Defeated"]
+  },
+  {
+    "name": "Gnasty's Loot 2000 Gems",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Stone Hill| AND |Dark Hollow| AND |Town Square| AND |Sunny Flight| AND |Toasty| AND |Dry Canyon| AND |Cliff Town| AND |Ice Cavern| AND |Night Flight| AND |Doctor Shemp| AND |Alpine Ridge| AND |High Caves| AND |Wizard Peak| AND |Crystal Flight| AND |Blowhard| AND |Terrace Village| AND |Misty Bog| AND |Tree Tops| AND |Wild Flight| AND |Metalhead| AND |Dark Passage| AND |Lofty Castle| AND |Haunted Towers| AND |Icy Flight| AND |Jacques| AND |Gnorc Cove| AND |Twilight Harbor| AND |Gnasty Gnorc| AND |Gnasty's Loot|"
+  },
+  {
+    "name": "Gnasty's Loot Golden Vortex",
+    "region": "Gnasty's World",
+    "category": [
+      "Spyro 1", "L - Gnasty's World"
+    ],
+    "requires": "|Stone Hill| AND |Dark Hollow| AND |Town Square| AND |Sunny Flight| AND |Toasty| AND |Dry Canyon| AND |Cliff Town| AND |Ice Cavern| AND |Night Flight| AND |Doctor Shemp| AND |Alpine Ridge| AND |High Caves| AND |Wizard Peak| AND |Crystal Flight| AND |Blowhard| AND |Terrace Village| AND |Misty Bog| AND |Tree Tops| AND |Wild Flight| AND |Metalhead| AND |Dark Passage| AND |Lofty Castle| AND |Haunted Towers| AND |Icy Flight| AND |Jacques| AND |Gnorc Cove| AND |Twilight Harbor| AND |Gnasty Gnorc| AND |Gnasty's Loot|"
+  }
+]
